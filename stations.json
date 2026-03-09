@@ -1,4702 +1,4032 @@
 {
+  "count": 671,
+  "skipped": 466,
   "stations": [
     {
-      "originalIndex": 0,
-      "code": "0",
-      "lat": 43.17,
-      "lon": 141.32
+      "name": "石狩市花川",
+      "region": "石狩地方北部",
+      "lat": 43.1717,
+      "lon": 141.315
     },
     {
-      "originalIndex": 3,
-      "code": "3",
-      "lat": 43.6,
-      "lon": 141.39
+      "name": "石狩市聚富",
+      "region": "石狩地方北部",
+      "lat": 43.275,
+      "lon": 141.4183
     },
     {
-      "originalIndex": 4,
-      "code": "4",
-      "lat": 43.17,
-      "lon": 141.3
+      "name": "札幌中央区北２条",
+      "region": "石狩地方中部",
+      "lat": 43.06,
+      "lon": 141.3283
     },
     {
-      "originalIndex": 5,
-      "code": "5",
-      "lat": 43.22,
-      "lon": 141.52
+      "name": "江別市高砂町",
+      "region": "石狩地方中部",
+      "lat": 43.1033,
+      "lon": 141.5367
     },
     {
-      "originalIndex": 9,
-      "code": "9",
-      "lat": 43.14,
-      "lon": 141.35
+      "name": "千歳市北栄",
+      "region": "石狩地方南部",
+      "lat": 42.8267,
+      "lon": 141.6417
     },
     {
-      "originalIndex": 10,
-      "code": "10",
-      "lat": 43.14,
-      "lon": 141.36
+      "name": "新千歳空港",
+      "region": "石狩地方南部",
+      "lat": 42.7833,
+      "lon": 141.6783
     },
     {
-      "originalIndex": 11,
-      "code": "11",
-      "lat": 43.11,
-      "lon": 141.33
+      "name": "恵庭市漁平",
+      "region": "石狩地方南部",
+      "lat": 42.8433,
+      "lon": 141.4467
     },
     {
-      "originalIndex": 12,
-      "code": "12",
-      "lat": 43.09,
-      "lon": 141.37
+      "name": "八雲町上の湯",
+      "region": "渡島地方北部",
+      "lat": 42.12,
+      "lon": 140.3667
     },
     {
-      "originalIndex": 15,
-      "code": "15",
-      "lat": 42.97,
-      "lon": 141.18
-    },
-    {
-      "originalIndex": 16,
-      "code": "16",
-      "lat": 43,
-      "lon": 141.33
-    },
-    {
-      "originalIndex": 17,
-      "code": "17",
-      "lat": 42.97,
-      "lon": 141.33
-    },
-    {
-      "originalIndex": 20,
-      "code": "20",
-      "lat": 43.12,
-      "lon": 141.26
-    },
-    {
-      "originalIndex": 22,
-      "code": "22",
-      "lat": 43.1,
-      "lon": 141.54
-    },
-    {
-      "originalIndex": 23,
-      "code": "23",
-      "lat": 43.12,
-      "lon": 141.55
-    },
-    {
-      "originalIndex": 25,
-      "code": "25",
-      "lat": 42.78,
-      "lon": 141.68
-    },
-    {
-      "originalIndex": 29,
-      "code": "29",
-      "lat": 42.88,
-      "lon": 141.58
-    },
-    {
-      "originalIndex": 30,
-      "code": "30",
-      "lat": 42.97,
-      "lon": 141.52
-    },
-    {
-      "originalIndex": 34,
-      "code": "34",
-      "lat": 42.49,
-      "lon": 140.35
-    },
-    {
-      "originalIndex": 35,
-      "code": "35",
+      "name": "函館市尾札部町",
+      "region": "渡島地方東部",
       "lat": 41.89,
-      "lon": 141.03
+      "lon": 141.0283
     },
     {
-      "originalIndex": 38,
-      "code": "38",
-      "lat": 41.72,
-      "lon": 141
+      "name": "函館市美原",
+      "region": "渡島地方東部",
+      "lat": 41.8167,
+      "lon": 140.7533
     },
     {
-      "originalIndex": 39,
-      "code": "39",
-      "lat": 41.83,
-      "lon": 141.14
+      "name": "七飯町桜町",
+      "region": "渡島地方東部",
+      "lat": 41.9033,
+      "lon": 140.6883
     },
     {
-      "originalIndex": 40,
-      "code": "40",
-      "lat": 41.91,
-      "lon": 140.97
+      "name": "渡島森町御幸町",
+      "region": "渡島地方東部",
+      "lat": 42.105,
+      "lon": 140.5767
     },
     {
-      "originalIndex": 46,
-      "code": "46",
-      "lat": 42.04,
-      "lon": 140.81
+      "name": "渡島松前町福山",
+      "region": "渡島地方西部",
+      "lat": 41.43,
+      "lon": 140.11
     },
     {
-      "originalIndex": 61,
-      "code": "61",
-      "lat": 41.94,
-      "lon": 140.37
+      "name": "渡島松前町清部",
+      "region": "渡島地方西部",
+      "lat": 41.525,
+      "lon": 140.0067
     },
     {
-      "originalIndex": 80,
-      "code": "80",
-      "lat": 42.81,
-      "lon": 140.69
+      "name": "知内町小谷石",
+      "region": "渡島地方西部",
+      "lat": 41.5317,
+      "lon": 140.4133
     },
     {
-      "originalIndex": 82,
-      "code": "82",
-      "lat": 42.74,
-      "lon": 140.88
+      "name": "檜山江差町姥神",
+      "region": "檜山地方",
+      "lat": 41.8683,
+      "lon": 140.125
     },
     {
-      "originalIndex": 84,
-      "code": "84",
-      "lat": 42.86,
-      "lon": 140.88
+      "name": "せたな町北檜山区豊岡",
+      "region": "檜山地方",
+      "lat": 42.4233,
+      "lon": 139.8767
     },
     {
-      "originalIndex": 85,
-      "code": "85",
-      "lat": 42.9,
-      "lon": 140.76
+      "name": "小樽市勝納町",
+      "region": "後志地方北部",
+      "lat": 43.1833,
+      "lon": 141.0167
     },
     {
-      "originalIndex": 86,
-      "code": "86",
-      "lat": 42.91,
-      "lon": 140.77
+      "name": "積丹町日司町",
+      "region": "後志地方北部",
+      "lat": 43.355,
+      "lon": 140.4717
     },
     {
-      "originalIndex": 88,
-      "code": "88",
-      "lat": 42.7,
-      "lon": 140.06
+      "name": "余市町朝日町",
+      "region": "後志地方北部",
+      "lat": 43.195,
+      "lon": 140.7833
     },
     {
-      "originalIndex": 92,
-      "code": "92",
-      "lat": 42.81,
-      "lon": 140.53
+      "name": "倶知安町南１条",
+      "region": "後志地方東部",
+      "lat": 42.9017,
+      "lon": 140.7567
     },
     {
-      "originalIndex": 107,
-      "code": "107",
-      "lat": 43.52,
-      "lon": 142.19
+      "name": "島牧村江ノ島",
+      "region": "後志地方西部",
+      "lat": 42.645,
+      "lon": 140.0417
     },
     {
-      "originalIndex": 112,
-      "code": "112",
-      "lat": 43.52,
-      "lon": 142.03
+      "name": "寿都町新栄",
+      "region": "後志地方西部",
+      "lat": 42.795,
+      "lon": 140.225
     },
     {
-      "originalIndex": 113,
-      "code": "113",
-      "lat": 43.43,
-      "lon": 141.88
+      "name": "岩内町高台",
+      "region": "後志地方西部",
+      "lat": 42.98,
+      "lon": 140.515
     },
     {
-      "originalIndex": 114,
-      "code": "114",
-      "lat": 43.48,
-      "lon": 141.98
+      "name": "奥尻町松江",
+      "region": "北海道奥尻島",
+      "lat": 42.085,
+      "lon": 139.47
     },
     {
-      "originalIndex": 115,
-      "code": "115",
-      "lat": 43.43,
-      "lon": 141.82
+      "name": "北竜町竜西",
+      "region": "空知地方北部",
+      "lat": 43.745,
+      "lon": 141.7217
     },
     {
-      "originalIndex": 122,
-      "code": "122",
-      "lat": 43.12,
-      "lon": 141.75
+      "name": "芦別市旭町",
+      "region": "空知地方中部",
+      "lat": 43.5067,
+      "lon": 142.22
     },
     {
-      "originalIndex": 123,
-      "code": "123",
-      "lat": 43.33,
+      "name": "滝川市大町",
+      "region": "空知地方中部",
+      "lat": 43.5567,
+      "lon": 141.91
+    },
+    {
+      "name": "夕張市若菜",
+      "region": "空知地方南部",
+      "lat": 43.0283,
+      "lon": 141.965
+    },
+    {
+      "name": "岩見沢市５条",
+      "region": "空知地方南部",
+      "lat": 43.2133,
+      "lon": 141.785
+    },
+    {
+      "name": "美唄市西５条",
+      "region": "空知地方南部",
+      "lat": 43.335,
+      "lon": 141.8467
+    },
+    {
+      "name": "士別市朝日町",
+      "region": "上川地方北部",
+      "lat": 44.1183,
+      "lon": 142.5933
+    },
+    {
+      "name": "士別市東６条",
+      "region": "上川地方北部",
+      "lat": 44.1767,
+      "lon": 142.4017
+    },
+    {
+      "name": "名寄市大通",
+      "region": "上川地方北部",
+      "lat": 44.355,
+      "lon": 142.4633
+    },
+    {
+      "name": "旭川市宮前１条",
+      "region": "上川地方中部",
+      "lat": 43.7583,
+      "lon": 142.3733
+    },
+    {
+      "name": "上川地方上川町越路",
+      "region": "上川地方中部",
+      "lat": 43.8767,
+      "lon": 142.7433
+    },
+    {
+      "name": "富良野市若松町",
+      "region": "上川地方南部",
+      "lat": 43.345,
+      "lon": 142.385
+    },
+    {
+      "name": "上富良野町大町",
+      "region": "上川地方南部",
+      "lat": 43.455,
+      "lon": 142.4667
+    },
+    {
+      "name": "南富良野町幾寅",
+      "region": "上川地方南部",
+      "lat": 43.1667,
+      "lon": 142.59
+    },
+    {
+      "name": "羽幌町南３条",
+      "region": "留萌地方中北部",
+      "lat": 44.3633,
+      "lon": 141.7017
+    },
+    {
+      "name": "羽幌町焼尻",
+      "region": "留萌地方中北部",
+      "lat": 44.43,
+      "lon": 141.4233
+    },
+    {
+      "name": "初山別村有明",
+      "region": "留萌地方中北部",
+      "lat": 44.4017,
       "lon": 141.85
     },
     {
-      "originalIndex": 124,
-      "code": "124",
-      "lat": 43.33,
-      "lon": 141.86
+      "name": "留萌市大町",
+      "region": "留萌地方南部",
+      "lat": 43.9467,
+      "lon": 141.6317
     },
     {
-      "originalIndex": 126,
-      "code": "126",
-      "lat": 43.06,
-      "lon": 141.65
+      "name": "稚内市恵北",
+      "region": "宗谷地方北部",
+      "lat": 45.3183,
+      "lon": 141.8933
     },
     {
-      "originalIndex": 127,
-      "code": "127",
-      "lat": 43,
-      "lon": 141.79
+      "name": "稚内市開運",
+      "region": "宗谷地方北部",
+      "lat": 45.415,
+      "lon": 141.6783
     },
     {
-      "originalIndex": 128,
-      "code": "128",
-      "lat": 43.01,
-      "lon": 141.7
+      "name": "宗谷枝幸町岬町",
+      "region": "宗谷地方南部",
+      "lat": 44.9617,
+      "lon": 142.58
     },
     {
-      "originalIndex": 129,
-      "code": "129",
-      "lat": 43.06,
-      "lon": 141.78
+      "name": "宗谷枝幸町本町",
+      "region": "宗谷地方南部",
+      "lat": 44.94,
+      "lon": 142.585
     },
     {
-      "originalIndex": 130,
-      "code": "130",
-      "lat": 43.34,
-      "lon": 141.66
+      "name": "礼文町上泊埼",
+      "region": "北海道利尻礼文",
+      "lat": 45.4233,
+      "lon": 141.065
     },
     {
-      "originalIndex": 139,
-      "code": "139",
-      "lat": 44.31,
-      "lon": 142.64
+      "name": "利尻富士町鬼脇",
+      "region": "北海道利尻礼文",
+      "lat": 45.14,
+      "lon": 141.3067
     },
     {
-      "originalIndex": 154,
-      "code": "154",
-      "lat": 43.85,
-      "lon": 142.77
-    },
-    {
-      "originalIndex": 155,
-      "code": "155",
-      "lat": 43.77,
-      "lon": 142.9
-    },
-    {
-      "originalIndex": 202,
-      "code": "202",
-      "lat": 44.02,
+      "name": "網走市台町",
+      "region": "網走地方",
+      "lat": 44.0183,
       "lon": 144.28
     },
     {
-      "originalIndex": 203,
-      "code": "203",
-      "lat": 44.02,
-      "lon": 144.26
+      "name": "美幌町東３条",
+      "region": "網走地方",
+      "lat": 43.8167,
+      "lon": 144.1033
     },
     {
-      "originalIndex": 206,
-      "code": "206",
-      "lat": 43.91,
-      "lon": 144.67
+      "name": "斜里町本町",
+      "region": "網走地方",
+      "lat": 43.9117,
+      "lon": 144.6717
     },
     {
-      "originalIndex": 208,
-      "code": "208",
-      "lat": 43.84,
-      "lon": 144.59
+      "name": "北見市公園町",
+      "region": "北見地方",
+      "lat": 43.8183,
+      "lon": 143.9033
     },
     {
-      "originalIndex": 209,
-      "code": "209",
-      "lat": 43.86,
-      "lon": 144.46
+      "name": "北見市常呂町東浜",
+      "region": "北見地方",
+      "lat": 44.1183,
+      "lon": 144.085
     },
     {
-      "originalIndex": 210,
-      "code": "210",
-      "lat": 43.84,
-      "lon": 144.29
-    },
-    {
-      "originalIndex": 214,
-      "code": "214",
-      "lat": 43.76,
+      "name": "北見市留辺蘂町温根湯温泉",
+      "region": "北見地方",
+      "lat": 43.7583,
       "lon": 143.51
     },
     {
-      "originalIndex": 226,
-      "code": "226",
-      "lat": 44.09,
-      "lon": 143.53
+      "name": "紋別市南が丘町",
+      "region": "紋別地方",
+      "lat": 44.345,
+      "lon": 143.355
     },
     {
-      "originalIndex": 228,
-      "code": "228",
-      "lat": 43.92,
-      "lon": 143.53
+      "name": "遠軽町丸瀬布金湧山",
+      "region": "紋別地方",
+      "lat": 44.01,
+      "lon": 143.3567
     },
     {
-      "originalIndex": 237,
-      "code": "237",
-      "lat": 42.67,
-      "lon": 141.08
+      "name": "雄武町雄武",
+      "region": "紋別地方",
+      "lat": 44.5833,
+      "lon": 142.9617
     },
     {
-      "originalIndex": 244,
-      "code": "244",
-      "lat": 42.64,
-      "lon": 141.61
+      "name": "胆振伊達市梅本",
+      "region": "胆振地方西部",
+      "lat": 42.4733,
+      "lon": 140.8767
     },
     {
-      "originalIndex": 245,
-      "code": "245",
-      "lat": 42.63,
-      "lon": 141.61
+      "name": "室蘭市山手町",
+      "region": "胆振地方中東部",
+      "lat": 42.3117,
+      "lon": 140.975
     },
     {
-      "originalIndex": 246,
-      "code": "246",
-      "lat": 42.47,
-      "lon": 141.03
+      "name": "苫小牧市末広町",
+      "region": "胆振地方中東部",
+      "lat": 42.6383,
+      "lon": 141.6117
     },
     {
-      "originalIndex": 247,
-      "code": "247",
-      "lat": 42.42,
-      "lon": 141.08
+      "name": "登別市鉱山",
+      "region": "胆振地方中東部",
+      "lat": 42.4717,
+      "lon": 141.035
     },
     {
-      "originalIndex": 253,
-      "code": "253",
-      "lat": 42.87,
-      "lon": 141.82
+      "name": "白老町竹浦",
+      "region": "胆振地方中東部",
+      "lat": 42.4933,
+      "lon": 141.255
     },
     {
-      "originalIndex": 254,
-      "code": "254",
-      "lat": 42.57,
-      "lon": 141.93
+      "name": "厚真町鹿沼",
+      "region": "胆振地方中東部",
+      "lat": 42.6233,
+      "lon": 141.92
     },
     {
-      "originalIndex": 255,
-      "code": "255",
-      "lat": 42.76,
-      "lon": 142.13
-    },
-    {
-      "originalIndex": 261,
-      "code": "261",
-      "lat": 42.36,
-      "lon": 142.32
-    },
-    {
-      "originalIndex": 262,
-      "code": "262",
-      "lat": 42.34,
+      "name": "平取町仁世宇",
+      "region": "日高地方西部",
+      "lat": 42.7817,
       "lon": 142.36
     },
     {
-      "originalIndex": 274,
-      "code": "274",
-      "lat": 43.32,
-      "lon": 143.3
+      "name": "新ひだか町静内山手町",
+      "region": "日高地方中部",
+      "lat": 42.345,
+      "lon": 142.3617
     },
     {
-      "originalIndex": 275,
-      "code": "275",
-      "lat": 43.23,
-      "lon": 143.3
+      "name": "新ひだか町静内御園",
+      "region": "日高地方中部",
+      "lat": 42.41,
+      "lon": 142.4667
     },
     {
-      "originalIndex": 276,
-      "code": "276",
-      "lat": 43.1,
-      "lon": 142.99
+      "name": "浦河町野深",
+      "region": "日高地方東部",
+      "lat": 42.2833,
+      "lon": 142.75
     },
     {
-      "originalIndex": 278,
-      "code": "278",
-      "lat": 43.33,
-      "lon": 142.95
+      "name": "浦河町潮見",
+      "region": "日高地方東部",
+      "lat": 42.1617,
+      "lon": 142.7767
     },
     {
-      "originalIndex": 284,
-      "code": "284",
-      "lat": 42.99,
-      "lon": 143.2
+      "name": "えりも町本町",
+      "region": "日高地方東部",
+      "lat": 42.0167,
+      "lon": 143.1533
     },
     {
-      "originalIndex": 285,
-      "code": "285",
-      "lat": 43.17,
-      "lon": 143.24
+      "name": "足寄町上螺湾",
+      "region": "十勝地方北部",
+      "lat": 43.3,
+      "lon": 143.765
     },
     {
-      "originalIndex": 287,
-      "code": "287",
-      "lat": 42.91,
-      "lon": 143.05
+      "name": "帯広市東４条",
+      "region": "十勝地方中部",
+      "lat": 42.9233,
+      "lon": 143.2117
     },
     {
-      "originalIndex": 288,
-      "code": "288",
-      "lat": 42.62,
+      "name": "十勝清水町南４条",
+      "region": "十勝地方中部",
+      "lat": 43.0117,
+      "lon": 142.885
+    },
+    {
+      "name": "幕別町忠類明和",
+      "region": "十勝地方中部",
+      "lat": 42.6183,
       "lon": 143.36
     },
     {
-      "originalIndex": 290,
-      "code": "290",
-      "lat": 42.91,
-      "lon": 143.36
+      "name": "本別町北２丁目",
+      "region": "十勝地方中部",
+      "lat": 43.125,
+      "lon": 143.6117
     },
     {
-      "originalIndex": 291,
-      "code": "291",
-      "lat": 42.93,
-      "lon": 143.45
+      "name": "広尾町並木通",
+      "region": "十勝地方南部",
+      "lat": 42.295,
+      "lon": 143.3167
     },
     {
-      "originalIndex": 292,
-      "code": "292",
-      "lat": 42.8,
-      "lon": 143.51
+      "name": "広尾町白樺通",
+      "region": "十勝地方南部",
+      "lat": 42.2917,
+      "lon": 143.2983
     },
     {
-      "originalIndex": 293,
-      "code": "293",
-      "lat": 43.12,
-      "lon": 143.61
+      "name": "弟子屈町美里",
+      "region": "釧路地方北部",
+      "lat": 43.4817,
+      "lon": 144.4367
     },
     {
-      "originalIndex": 294,
-      "code": "294",
-      "lat": 43.12,
-      "lon": 143.62
+      "name": "釧路市幸町",
+      "region": "釧路地方中南部",
+      "lat": 42.9867,
+      "lon": 144.3783
     },
     {
-      "originalIndex": 296,
-      "code": "296",
-      "lat": 42.7,
-      "lon": 143.14
+      "name": "釧路市音別町尺別",
+      "region": "釧路地方中南部",
+      "lat": 42.905,
+      "lon": 143.8317
     },
     {
-      "originalIndex": 299,
-      "code": "299",
-      "lat": 42.62,
-      "lon": 143.42
+      "name": "厚岸町尾幌",
+      "region": "釧路地方中南部",
+      "lat": 42.9967,
+      "lon": 144.6933
     },
     {
-      "originalIndex": 305,
-      "code": "305",
-      "lat": 42.99,
-      "lon": 144.38
-    },
-    {
-      "originalIndex": 306,
-      "code": "306",
-      "lat": 42.91,
-      "lon": 143.83
-    },
-    {
-      "originalIndex": 307,
-      "code": "307",
-      "lat": 42.98,
-      "lon": 144.38
-    },
-    {
-      "originalIndex": 310,
-      "code": "310",
-      "lat": 42.89,
-      "lon": 143.93
-    },
-    {
-      "originalIndex": 311,
-      "code": "311",
-      "lat": 43,
-      "lon": 144.47
-    },
-    {
-      "originalIndex": 314,
-      "code": "314",
-      "lat": 43.08,
+      "name": "浜中町湯沸",
+      "region": "釧路地方中南部",
+      "lat": 43.0833,
       "lon": 145.16
     },
     {
-      "originalIndex": 316,
-      "code": "316",
-      "lat": 43.3,
-      "lon": 144.6
+      "name": "中標津町養老牛",
+      "region": "根室地方北部",
+      "lat": 43.5883,
+      "lon": 144.715
     },
     {
-      "originalIndex": 318,
-      "code": "318",
-      "lat": 43.23,
-      "lon": 144.33
+      "name": "標津町古多糠",
+      "region": "根室地方北部",
+      "lat": 43.775,
+      "lon": 145.005
     },
     {
-      "originalIndex": 323,
-      "code": "323",
-      "lat": 43.66,
-      "lon": 145.13
-    },
-    {
-      "originalIndex": 328,
-      "code": "328",
-      "lat": 43.39,
+      "name": "羅臼町春日",
+      "region": "根室地方北部",
+      "lat": 43.94,
       "lon": 145.12
     },
     {
-      "originalIndex": 330,
-      "code": "330",
-      "lat": 43.39,
-      "lon": 145.28
+      "name": "別海町常盤",
+      "region": "根室地方中部",
+      "lat": 43.395,
+      "lon": 145.1183
     },
     {
-      "originalIndex": 337,
-      "code": "337",
-      "lat": 40.82,
-      "lon": 140.77
+      "name": "根室市弥栄",
+      "region": "根室地方南部",
+      "lat": 43.3317,
+      "lon": 145.585
     },
     {
-      "originalIndex": 338,
-      "code": "338",
-      "lat": 40.82,
-      "lon": 140.75
+      "name": "根室市豊里",
+      "region": "根室地方南部",
+      "lat": 43.3667,
+      "lon": 145.7383
     },
     {
-      "originalIndex": 350,
-      "code": "350",
-      "lat": 40.93,
-      "lon": 140.95
+      "name": "青森市花園",
+      "region": "青森県津軽北部",
+      "lat": 40.8217,
+      "lon": 140.7683
     },
     {
-      "originalIndex": 351,
-      "code": "351",
-      "lat": 40.99,
-      "lon": 140.92
+      "name": "五所川原市栄町",
+      "region": "青森県津軽北部",
+      "lat": 40.8,
+      "lon": 140.4433
     },
     {
-      "originalIndex": 352,
-      "code": "352",
-      "lat": 41.18,
-      "lon": 140.48
+      "name": "五所川原市太田",
+      "region": "青森県津軽北部",
+      "lat": 41.06,
+      "lon": 140.4083
     },
     {
-      "originalIndex": 353,
-      "code": "353",
-      "lat": 40.97,
-      "lon": 140.65
+      "name": "平内町小湊",
+      "region": "青森県津軽北部",
+      "lat": 40.925,
+      "lon": 140.9533
     },
     {
-      "originalIndex": 355,
-      "code": "355",
-      "lat": 41.19,
-      "lon": 140.43
+      "name": "弘前市和田町",
+      "region": "青森県津軽南部",
+      "lat": 40.6117,
+      "lon": 140.455
     },
     {
-      "originalIndex": 359,
-      "code": "359",
-      "lat": 41.13,
-      "lon": 140.3
+      "name": "弘前市弥生",
+      "region": "青森県津軽南部",
+      "lat": 40.6517,
+      "lon": 140.3583
     },
     {
-      "originalIndex": 381,
-      "code": "381",
-      "lat": 40.38,
-      "lon": 141.51
+      "name": "鰺ヶ沢町舞戸町鳴戸",
+      "region": "青森県津軽南部",
+      "lat": 40.7817,
+      "lon": 140.2333
     },
     {
-      "originalIndex": 384,
-      "code": "384",
-      "lat": 40.4,
-      "lon": 141.44
+      "name": "深浦町長慶平",
+      "region": "青森県津軽南部",
+      "lat": 40.595,
+      "lon": 140.0033
     },
     {
-      "originalIndex": 385,
-      "code": "385",
-      "lat": 40.62,
-      "lon": 141.21
+      "name": "深浦町深浦岡町",
+      "region": "青森県津軽南部",
+      "lat": 40.6467,
+      "lon": 139.9333
     },
     {
-      "originalIndex": 386,
-      "code": "386",
-      "lat": 40.61,
-      "lon": 141.21
+      "name": "八戸市島守",
+      "region": "青森県三八上北",
+      "lat": 40.3767,
+      "lon": 141.5117
     },
     {
-      "originalIndex": 387,
-      "code": "387",
-      "lat": 40.59,
-      "lon": 141.11
+      "name": "八戸市湊町",
+      "region": "青森県三八上北",
+      "lat": 40.5283,
+      "lon": 141.5217
     },
     {
-      "originalIndex": 404,
-      "code": "404",
-      "lat": 40.53,
-      "lon": 141.31
+      "name": "七戸町北天間舘",
+      "region": "青森県三八上北",
+      "lat": 40.79,
+      "lon": 141.065
     },
     {
-      "originalIndex": 405,
-      "code": "405",
-      "lat": 40.51,
-      "lon": 141.25
+      "name": "六ヶ所村尾駮",
+      "region": "青森県三八上北",
+      "lat": 40.9667,
+      "lon": 141.3733
     },
     {
-      "originalIndex": 411,
-      "code": "411",
-      "lat": 40.47,
-      "lon": 141.17
+      "name": "六ヶ所村出戸",
+      "region": "青森県三八上北",
+      "lat": 41.0067,
+      "lon": 141.3667
     },
     {
-      "originalIndex": 412,
-      "code": "412",
-      "lat": 41.28,
-      "lon": 141.21
+      "name": "五戸町古舘",
+      "region": "青森県三八上北",
+      "lat": 40.5317,
+      "lon": 141.3083
     },
     {
-      "originalIndex": 414,
-      "code": "414",
-      "lat": 41.29,
-      "lon": 141.2
+      "name": "むつ市金曲",
+      "region": "青森県下北",
+      "lat": 41.2833,
+      "lon": 141.2117
     },
     {
-      "originalIndex": 420,
-      "code": "420",
-      "lat": 41.41,
-      "lon": 141.45
+      "name": "むつ市大畑町奥薬研",
+      "region": "青森県下北",
+      "lat": 41.385,
+      "lon": 141.045
     },
     {
-      "originalIndex": 424,
-      "code": "424",
-      "lat": 41.33,
-      "lon": 140.81
+      "name": "東通村砂子又蒲谷地",
+      "region": "青森県下北",
+      "lat": 41.265,
+      "lon": 141.3367
     },
     {
-      "originalIndex": 425,
-      "code": "425",
-      "lat": 41.43,
-      "lon": 140.86
+      "name": "宮古市鍬ヶ崎",
+      "region": "岩手県沿岸北部",
+      "lat": 39.6467,
+      "lon": 141.965
     },
     {
-      "originalIndex": 426,
-      "code": "426",
-      "lat": 39.65,
-      "lon": 141.97
+      "name": "宮古市長沢",
+      "region": "岩手県沿岸北部",
+      "lat": 39.5767,
+      "lon": 141.82
     },
     {
-      "originalIndex": 430,
-      "code": "430",
-      "lat": 39.63,
-      "lon": 141.44
+      "name": "久慈市川崎町",
+      "region": "岩手県沿岸北部",
+      "lat": 40.19,
+      "lon": 141.775
     },
     {
-      "originalIndex": 431,
-      "code": "431",
-      "lat": 39.74,
-      "lon": 141.97
+      "name": "久慈市枝成沢",
+      "region": "岩手県沿岸北部",
+      "lat": 40.205,
+      "lon": 141.71
     },
     {
-      "originalIndex": 437,
-      "code": "437",
-      "lat": 39.47,
+      "name": "山田町八幡町",
+      "region": "岩手県沿岸北部",
+      "lat": 39.4683,
       "lon": 141.95
     },
     {
-      "originalIndex": 438,
-      "code": "438",
-      "lat": 39.49,
-      "lon": 141.97
+      "name": "田野畑村田野畑",
+      "region": "岩手県沿岸北部",
+      "lat": 39.9417,
+      "lon": 141.86
     },
     {
-      "originalIndex": 445,
-      "code": "445",
-      "lat": 40.41,
-      "lon": 141.72
+      "name": "岩手洋野町種市",
+      "region": "岩手県沿岸北部",
+      "lat": 40.4083,
+      "lon": 141.7183
     },
     {
-      "originalIndex": 446,
-      "code": "446",
-      "lat": 40.28,
-      "lon": 141.62
+      "name": "大船渡市大船渡町",
+      "region": "岩手県沿岸南部",
+      "lat": 39.065,
+      "lon": 141.715
     },
     {
-      "originalIndex": 447,
-      "code": "447",
-      "lat": 39.07,
-      "lon": 141.71
+      "name": "大船渡市猪川町",
+      "region": "岩手県沿岸南部",
+      "lat": 39.0833,
+      "lon": 141.665
     },
     {
-      "originalIndex": 448,
-      "code": "448",
-      "lat": 39.08,
-      "lon": 141.66
+      "name": "釜石市只越町",
+      "region": "岩手県沿岸南部",
+      "lat": 39.2767,
+      "lon": 141.885
     },
     {
-      "originalIndex": 449,
-      "code": "449",
-      "lat": 39.08,
-      "lon": 141.71
+      "name": "盛岡市山王町",
+      "region": "岩手県内陸北部",
+      "lat": 39.6983,
+      "lon": 141.165
     },
     {
-      "originalIndex": 455,
-      "code": "455",
-      "lat": 39.7,
-      "lon": 141.17
+      "name": "二戸市福岡",
+      "region": "岩手県内陸北部",
+      "lat": 40.2717,
+      "lon": 141.3033
     },
     {
-      "originalIndex": 456,
-      "code": "456",
-      "lat": 39.7,
-      "lon": 141.15
+      "name": "雫石町千刈田",
+      "region": "岩手県内陸北部",
+      "lat": 39.6967,
+      "lon": 140.9767
     },
     {
-      "originalIndex": 461,
-      "code": "461",
-      "lat": 40.18,
-      "lon": 141.16
+      "name": "雫石町西根上駒木野",
+      "region": "岩手県内陸北部",
+      "lat": 39.7417,
+      "lon": 140.9533
     },
     {
-      "originalIndex": 462,
-      "code": "462",
-      "lat": 39.93,
-      "lon": 141.1
+      "name": "葛巻町葛巻元木",
+      "region": "岩手県内陸北部",
+      "lat": 39.9867,
+      "lon": 141.3267
     },
     {
-      "originalIndex": 463,
-      "code": "463",
-      "lat": 39.92,
-      "lon": 141.08
+      "name": "八幡平市大更",
+      "region": "岩手県内陸北部",
+      "lat": 39.9267,
+      "lon": 141.095
     },
     {
-      "originalIndex": 465,
-      "code": "465",
-      "lat": 39.96,
-      "lon": 141.07
-    },
-    {
-      "originalIndex": 466,
-      "code": "466",
-      "lat": 39.73,
-      "lon": 141.08
-    },
-    {
-      "originalIndex": 467,
-      "code": "467",
-      "lat": 39.7,
-      "lon": 140.98
-    },
-    {
-      "originalIndex": 468,
-      "code": "468",
-      "lat": 39.74,
-      "lon": 140.95
-    },
-    {
-      "originalIndex": 470,
-      "code": "470",
-      "lat": 40.04,
-      "lon": 141.45
-    },
-    {
-      "originalIndex": 471,
-      "code": "471",
-      "lat": 40.04,
-      "lon": 141.44
-    },
-    {
-      "originalIndex": 472,
-      "code": "472",
-      "lat": 39.97,
-      "lon": 141.21
-    },
-    {
-      "originalIndex": 474,
-      "code": "474",
-      "lat": 39.61,
-      "lon": 141.14
-    },
-    {
-      "originalIndex": 475,
-      "code": "475",
-      "lat": 40.33,
-      "lon": 141.46
-    },
-    {
-      "originalIndex": 478,
-      "code": "478",
-      "lat": 39.48,
+      "name": "花巻市大迫町",
+      "region": "岩手県内陸南部",
+      "lat": 39.4783,
       "lon": 141.29
     },
     {
-      "originalIndex": 480,
-      "code": "480",
-      "lat": 39.47,
-      "lon": 141.29
-    },
-    {
-      "originalIndex": 483,
-      "code": "483",
-      "lat": 39.29,
+      "name": "北上市柳原町",
+      "region": "岩手県内陸南部",
+      "lat": 39.2933,
       "lon": 141.11
     },
     {
-      "originalIndex": 484,
-      "code": "484",
-      "lat": 39.26,
-      "lon": 141.1
+      "name": "一関市大東町",
+      "region": "岩手県内陸南部",
+      "lat": 39.0167,
+      "lon": 141.395
     },
     {
-      "originalIndex": 489,
-      "code": "489",
-      "lat": 38.83,
-      "lon": 141.18
-    },
-    {
-      "originalIndex": 495,
-      "code": "495",
+      "name": "奥州市水沢大鐘町",
+      "region": "岩手県内陸南部",
       "lat": 39.13,
-      "lon": 141.14
+      "lon": 141.1383
     },
     {
-      "originalIndex": 496,
-      "code": "496",
-      "lat": 39.15,
-      "lon": 141.15
+      "name": "気仙沼市赤岩",
+      "region": "宮城県北部",
+      "lat": 38.88,
+      "lon": 141.575
     },
     {
-      "originalIndex": 497,
-      "code": "497",
-      "lat": 39.19,
-      "lon": 141.17
-    },
-    {
-      "originalIndex": 501,
-      "code": "501",
-      "lat": 39.32,
-      "lon": 140.78
-    },
-    {
-      "originalIndex": 502,
-      "code": "502",
-      "lat": 39.52,
-      "lon": 140.83
-    },
-    {
-      "originalIndex": 504,
-      "code": "504",
-      "lat": 39.2,
-      "lon": 141.12
-    },
-    {
-      "originalIndex": 509,
-      "code": "509",
-      "lat": 38.9,
-      "lon": 141.65
-    },
-    {
-      "originalIndex": 511,
-      "code": "511",
-      "lat": 38.71,
-      "lon": 141.24
-    },
-    {
-      "originalIndex": 515,
-      "code": "515",
-      "lat": 38.66,
-      "lon": 141.16
-    },
-    {
-      "originalIndex": 516,
-      "code": "516",
-      "lat": 38.69,
-      "lon": 141.19
-    },
-    {
-      "originalIndex": 517,
-      "code": "517",
-      "lat": 38.76,
-      "lon": 141.18
-    },
-    {
-      "originalIndex": 521,
-      "code": "521",
-      "lat": 38.73,
-      "lon": 141.03
-    },
-    {
-      "originalIndex": 524,
-      "code": "524",
-      "lat": 38.66,
-      "lon": 141.07
-    },
-    {
-      "originalIndex": 525,
-      "code": "525",
-      "lat": 38.76,
-      "lon": 141.07
-    },
-    {
-      "originalIndex": 527,
-      "code": "527",
+      "name": "気仙沼市本吉町西川内",
+      "region": "宮城県北部",
       "lat": 38.81,
-      "lon": 141.07
+      "lon": 141.4733
     },
     {
-      "originalIndex": 528,
-      "code": "528",
-      "lat": 38.77,
-      "lon": 141.12
+      "name": "涌谷町新町裏",
+      "region": "宮城県北部",
+      "lat": 38.54,
+      "lon": 141.1267
     },
     {
-      "originalIndex": 531,
-      "code": "531",
-      "lat": 38.6,
-      "lon": 140.91
+      "name": "栗原市栗駒",
+      "region": "宮城県北部",
+      "lat": 38.8267,
+      "lon": 140.9917
     },
     {
-      "originalIndex": 532,
-      "code": "532",
-      "lat": 38.75,
-      "lon": 140.72
+      "name": "登米市中田町",
+      "region": "宮城県北部",
+      "lat": 38.71,
+      "lon": 141.235
     },
     {
-      "originalIndex": 537,
-      "code": "537",
-      "lat": 38.65,
-      "lon": 140.88
+      "name": "南三陸町志津川",
+      "region": "宮城県北部",
+      "lat": 38.6783,
+      "lon": 141.4617
     },
     {
-      "originalIndex": 542,
-      "code": "542",
-      "lat": 38.61,
-      "lon": 140.76
+      "name": "大崎市古川三日町",
+      "region": "宮城県北部",
+      "lat": 38.5733,
+      "lon": 140.9567
     },
     {
-      "originalIndex": 549,
-      "code": "549",
-      "lat": 38.14,
-      "lon": 140.93
+      "name": "大崎市古川大崎",
+      "region": "宮城県北部",
+      "lat": 38.6017,
+      "lon": 140.9117
     },
     {
-      "originalIndex": 550,
-      "code": "550",
-      "lat": 38.17,
-      "lon": 140.89
+      "name": "仙台空港",
+      "region": "宮城県南部",
+      "lat": 38.1383,
+      "lon": 140.9283
     },
     {
-      "originalIndex": 563,
-      "code": "563",
-      "lat": 38.37,
+      "name": "柴田町船岡",
+      "region": "宮城県南部",
+      "lat": 38.055,
+      "lon": 140.7633
+    },
+    {
+      "name": "丸森町上滝",
+      "region": "宮城県南部",
+      "lat": 37.87,
+      "lon": 140.79
+    },
+    {
+      "name": "仙台青葉区大倉",
+      "region": "宮城県中部",
+      "lat": 38.3683,
       "lon": 140.66
     },
     {
-      "originalIndex": 564,
-      "code": "564",
-      "lat": 38.32,
-      "lon": 140.64
+      "name": "仙台宮城野区五輪",
+      "region": "宮城県中部",
+      "lat": 38.2617,
+      "lon": 140.8967
     },
     {
-      "originalIndex": 567,
-      "code": "567",
-      "lat": 38.26,
-      "lon": 140.9
-    },
-    {
-      "originalIndex": 568,
-      "code": "568",
-      "lat": 38.27,
-      "lon": 140.93
-    },
-    {
-      "originalIndex": 569,
-      "code": "569",
-      "lat": 38.24,
-      "lon": 140.91
-    },
-    {
-      "originalIndex": 572,
-      "code": "572",
-      "lat": 38.43,
+      "name": "石巻市泉町",
+      "region": "宮城県中部",
+      "lat": 38.4283,
       "lon": 141.3
     },
     {
-      "originalIndex": 573,
-      "code": "573",
-      "lat": 38.46,
-      "lon": 141.35
+      "name": "石巻市大瓜",
+      "region": "宮城県中部",
+      "lat": 38.4567,
+      "lon": 141.345
     },
     {
-      "originalIndex": 574,
-      "code": "574",
-      "lat": 38.3,
-      "lon": 141.51
+      "name": "松島町高城",
+      "region": "宮城県中部",
+      "lat": 38.385,
+      "lon": 141.0683
     },
     {
-      "originalIndex": 575,
-      "code": "575",
-      "lat": 38.43,
-      "lon": 141.28
+      "name": "能代市緑町",
+      "region": "秋田県沿岸北部",
+      "lat": 40.1983,
+      "lon": 140.0333
     },
     {
-      "originalIndex": 576,
-      "code": "576",
-      "lat": 38.57,
-      "lon": 141.43
+      "name": "能代市常盤山谷",
+      "region": "秋田県沿岸北部",
+      "lat": 40.2717,
+      "lon": 140.1617
     },
     {
-      "originalIndex": 577,
-      "code": "577",
-      "lat": 38.52,
-      "lon": 141.32
+      "name": "男鹿市男鹿中",
+      "region": "秋田県沿岸北部",
+      "lat": 39.92,
+      "lon": 139.8067
     },
     {
-      "originalIndex": 580,
-      "code": "580",
-      "lat": 38.51,
-      "lon": 141.5
+      "name": "五城目町西磯ノ目",
+      "region": "秋田県沿岸北部",
+      "lat": 39.9433,
+      "lon": 140.1117
     },
     {
-      "originalIndex": 583,
-      "code": "583",
-      "lat": 38.4,
-      "lon": 141.16
+      "name": "秋田市山王",
+      "region": "秋田県沿岸南部",
+      "lat": 39.7183,
+      "lon": 140.1
     },
     {
-      "originalIndex": 586,
-      "code": "586",
-      "lat": 38.39,
-      "lon": 141.07
+      "name": "秋田市雄和女米木",
+      "region": "秋田県沿岸南部",
+      "lat": 39.5417,
+      "lon": 140.205
     },
     {
-      "originalIndex": 587,
-      "code": "587",
-      "lat": 38.3,
-      "lon": 141.06
+      "name": "由利本荘市石脇",
+      "region": "秋田県沿岸南部",
+      "lat": 39.3983,
+      "lon": 140.0467
     },
     {
-      "originalIndex": 592,
-      "code": "592",
-      "lat": 38.45,
-      "lon": 141.44
+      "name": "大館市比内町味噌内",
+      "region": "秋田県内陸北部",
+      "lat": 40.1917,
+      "lon": 140.6333
     },
     {
-      "originalIndex": 643,
-      "code": "643",
-      "lat": 39.29,
-      "lon": 140.43
-    },
-    {
-      "originalIndex": 647,
-      "code": "647",
-      "lat": 39.34,
-      "lon": 140.43
-    },
-    {
-      "originalIndex": 648,
-      "code": "648",
-      "lat": 39.33,
-      "lon": 140.47
-    },
-    {
-      "originalIndex": 650,
-      "code": "650",
-      "lat": 39.26,
-      "lon": 140.49
-    },
-    {
-      "originalIndex": 652,
-      "code": "652",
-      "lat": 39.17,
-      "lon": 140.48
-    },
-    {
-      "originalIndex": 653,
-      "code": "653",
-      "lat": 39.04,
-      "lon": 140.45
-    },
-    {
-      "originalIndex": 654,
-      "code": "654",
-      "lat": 39.15,
-      "lon": 140.57
-    },
-    {
-      "originalIndex": 655,
-      "code": "655",
-      "lat": 39.16,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 656,
-      "code": "656",
-      "lat": 39.06,
-      "lon": 140.45
-    },
-    {
-      "originalIndex": 657,
-      "code": "657",
-      "lat": 39.07,
-      "lon": 140.59
-    },
-    {
-      "originalIndex": 667,
-      "code": "667",
-      "lat": 39.81,
-      "lon": 140.58
-    },
-    {
-      "originalIndex": 694,
-      "code": "694",
-      "lat": 38.79,
-      "lon": 140.02
-    },
-    {
-      "originalIndex": 708,
-      "code": "708",
-      "lat": 38.61,
-      "lon": 140.16
-    },
-    {
-      "originalIndex": 711,
-      "code": "711",
-      "lat": 38.74,
-      "lon": 140.14
-    },
-    {
-      "originalIndex": 747,
-      "code": "747",
-      "lat": 37.66,
-      "lon": 140.54
-    },
-    {
-      "originalIndex": 752,
-      "code": "752",
-      "lat": 37.13,
-      "lon": 140.22
-    },
-    {
-      "originalIndex": 753,
-      "code": "753",
-      "lat": 37.12,
-      "lon": 140.19
-    },
-    {
-      "originalIndex": 756,
-      "code": "756",
-      "lat": 37.2,
-      "lon": 140.25
-    },
-    {
-      "originalIndex": 757,
-      "code": "757",
-      "lat": 37.13,
-      "lon": 140.21
-    },
-    {
-      "originalIndex": 762,
-      "code": "762",
-      "lat": 37.59,
-      "lon": 140.43
-    },
-    {
-      "originalIndex": 765,
-      "code": "765",
-      "lat": 37.6,
-      "lon": 140.58
-    },
-    {
-      "originalIndex": 771,
-      "code": "771",
-      "lat": 37.85,
-      "lon": 140.6
-    },
-    {
-      "originalIndex": 772,
-      "code": "772",
-      "lat": 37.82,
-      "lon": 140.56
-    },
-    {
-      "originalIndex": 774,
-      "code": "774",
-      "lat": 37.73,
-      "lon": 140.61
-    },
-    {
-      "originalIndex": 775,
-      "code": "775",
-      "lat": 37.82,
-      "lon": 140.51
-    },
-    {
-      "originalIndex": 776,
-      "code": "776",
-      "lat": 37.51,
-      "lon": 140.39
-    },
-    {
-      "originalIndex": 777,
-      "code": "777",
-      "lat": 37.51,
-      "lon": 140.45
-    },
-    {
-      "originalIndex": 778,
-      "code": "778",
-      "lat": 37.85,
-      "lon": 140.52
-    },
-    {
-      "originalIndex": 779,
-      "code": "779",
-      "lat": 37.88,
-      "lon": 140.55
-    },
-    {
-      "originalIndex": 780,
-      "code": "780",
-      "lat": 37.66,
-      "lon": 140.6
-    },
-    {
-      "originalIndex": 781,
-      "code": "781",
-      "lat": 37.56,
-      "lon": 140.33
-    },
-    {
-      "originalIndex": 782,
-      "code": "782",
-      "lat": 37.53,
+      "name": "北秋田市花園町",
+      "region": "秋田県内陸北部",
+      "lat": 40.2267,
       "lon": 140.37
     },
     {
-      "originalIndex": 784,
-      "code": "784",
-      "lat": 37.26,
-      "lon": 140.25
+      "name": "横手市雄物川町今宿",
+      "region": "秋田県内陸南部",
+      "lat": 39.2917,
+      "lon": 140.43
     },
     {
-      "originalIndex": 786,
-      "code": "786",
-      "lat": 37.14,
-      "lon": 140.16
+      "name": "湯沢市沖鶴",
+      "region": "秋田県内陸南部",
+      "lat": 39.1733,
+      "lon": 140.48
     },
     {
-      "originalIndex": 790,
-      "code": "790",
+      "name": "秋田美郷町六郷東根",
+      "region": "秋田県内陸南部",
+      "lat": 39.3983,
+      "lon": 140.63
+    },
+    {
+      "name": "仙北市角館町中菅沢",
+      "region": "秋田県内陸南部",
+      "lat": 39.59,
+      "lon": 140.5667
+    },
+    {
+      "name": "鶴岡市馬場町",
+      "region": "山形県庄内",
+      "lat": 38.7267,
+      "lon": 139.8267
+    },
+    {
+      "name": "鶴岡市温海川",
+      "region": "山形県庄内",
+      "lat": 38.5967,
+      "lon": 139.71
+    },
+    {
+      "name": "酒田市飛島",
+      "region": "山形県庄内",
+      "lat": 39.1983,
+      "lon": 139.5533
+    },
+    {
+      "name": "酒田市亀ケ崎",
+      "region": "山形県庄内",
+      "lat": 38.9083,
+      "lon": 139.8433
+    },
+    {
+      "name": "遊佐町遊佐",
+      "region": "山形県庄内",
+      "lat": 39.0117,
+      "lon": 139.9083
+    },
+    {
+      "name": "遊佐町小原田",
+      "region": "山形県庄内",
+      "lat": 39.0167,
+      "lon": 139.93
+    },
+    {
+      "name": "新庄市東谷地田町",
+      "region": "山形県最上",
+      "lat": 38.7567,
+      "lon": 140.3117
+    },
+    {
+      "name": "山形金山町中田",
+      "region": "山形県最上",
+      "lat": 38.9217,
+      "lon": 140.3567
+    },
+    {
+      "name": "山形市緑町",
+      "region": "山形県村山",
+      "lat": 38.2567,
+      "lon": 140.3467
+    },
+    {
+      "name": "河北町西里",
+      "region": "山形県村山",
+      "lat": 38.415,
+      "lon": 140.28
+    },
+    {
+      "name": "米沢市駅前",
+      "region": "山形県置賜",
+      "lat": 37.9117,
+      "lon": 140.1217
+    },
+    {
+      "name": "米沢市アルカディア",
+      "region": "山形県置賜",
+      "lat": 37.9133,
+      "lon": 140.1433
+    },
+    {
+      "name": "山形小国町岩井沢",
+      "region": "山形県置賜",
+      "lat": 38.0567,
+      "lon": 139.7483
+    },
+    {
+      "name": "白鷹町黒鴨",
+      "region": "山形県置賜",
+      "lat": 38.225,
+      "lon": 140.0617
+    },
+    {
+      "name": "福島市花園町",
+      "region": "福島県中通り",
+      "lat": 37.7617,
+      "lon": 140.4733
+    },
+    {
+      "name": "郡山市朝日",
+      "region": "福島県中通り",
+      "lat": 37.4017,
+      "lon": 140.36
+    },
+    {
+      "name": "白河市郭内",
+      "region": "福島県中通り",
+      "lat": 37.1317,
+      "lon": 140.215
+    },
+    {
+      "name": "大玉村南小屋",
+      "region": "福島県中通り",
+      "lat": 37.56,
+      "lon": 140.3333
+    },
+    {
+      "name": "棚倉町棚倉中居野",
+      "region": "福島県中通り",
       "lat": 37.03,
       "lon": 140.38
     },
     {
-      "originalIndex": 791,
-      "code": "791",
-      "lat": 37.02,
-      "lon": 140.38
+      "name": "古殿町松川横川",
+      "region": "福島県中通り",
+      "lat": 37.0917,
+      "lon": 140.5617
     },
     {
-      "originalIndex": 794,
-      "code": "794",
-      "lat": 36.96,
-      "lon": 140.41
+      "name": "田村市船引町",
+      "region": "福島県中通り",
+      "lat": 37.44,
+      "lon": 140.5767
     },
     {
-      "originalIndex": 795,
-      "code": "795",
-      "lat": 37.04,
-      "lon": 140.51
+      "name": "いわき市小名浜",
+      "region": "福島県浜通り",
+      "lat": 36.9483,
+      "lon": 140.9033
     },
     {
-      "originalIndex": 797,
-      "code": "797",
-      "lat": 37.21,
-      "lon": 140.41
+      "name": "いわき市三和町",
+      "region": "福島県浜通り",
+      "lat": 37.105,
+      "lon": 140.7983
     },
     {
-      "originalIndex": 798,
-      "code": "798",
-      "lat": 37.22,
-      "lon": 140.58
-    },
-    {
-      "originalIndex": 799,
-      "code": "799",
-      "lat": 37.08,
-      "lon": 140.41
-    },
-    {
-      "originalIndex": 805,
-      "code": "805",
-      "lat": 36.95,
-      "lon": 140.9
-    },
-    {
-      "originalIndex": 809,
-      "code": "809",
-      "lat": 37.05,
-      "lon": 140.89
-    },
-    {
-      "originalIndex": 820,
-      "code": "820",
-      "lat": 37.34,
-      "lon": 141.01
-    },
-    {
-      "originalIndex": 821,
-      "code": "821",
+      "name": "川内村下川内",
+      "region": "福島県浜通り",
       "lat": 37.37,
-      "lon": 140.87
+      "lon": 140.8717
     },
     {
-      "originalIndex": 824,
-      "code": "824",
-      "lat": 37.41,
-      "lon": 140.96
-    },
-    {
-      "originalIndex": 825,
-      "code": "825",
-      "lat": 37.38,
-      "lon": 140.96
-    },
-    {
-      "originalIndex": 826,
-      "code": "826",
-      "lat": 37.45,
-      "lon": 141.01
-    },
-    {
-      "originalIndex": 827,
-      "code": "827",
-      "lat": 37.49,
+      "name": "浪江町幾世橋",
+      "region": "福島県浜通り",
+      "lat": 37.495,
       "lon": 141
     },
     {
-      "originalIndex": 830,
-      "code": "830",
-      "lat": 37.68,
-      "lon": 140.74
+      "name": "南相馬市原町区三島町",
+      "region": "福島県浜通り",
+      "lat": 37.6417,
+      "lon": 140.955
     },
     {
-      "originalIndex": 869,
-      "code": "869",
-      "lat": 36.38,
-      "lon": 140.47
+      "name": "南相馬市鹿島区栃窪",
+      "region": "福島県浜通り",
+      "lat": 37.725,
+      "lon": 140.8867
     },
     {
-      "originalIndex": 870,
-      "code": "870",
-      "lat": 36.37,
-      "lon": 140.45
+      "name": "会津若松市材木町",
+      "region": "福島県会津",
+      "lat": 37.4883,
+      "lon": 139.91
     },
     {
-      "originalIndex": 871,
-      "code": "871",
-      "lat": 36.36,
-      "lon": 140.36
+      "name": "西会津町野沢",
+      "region": "福島県会津",
+      "lat": 37.5867,
+      "lon": 139.6483
     },
     {
-      "originalIndex": 872,
-      "code": "872",
-      "lat": 36.35,
-      "lon": 140.52
+      "name": "猪苗代町城南",
+      "region": "福島県会津",
+      "lat": 37.5583,
+      "lon": 140.105
     },
     {
-      "originalIndex": 875,
-      "code": "875",
-      "lat": 36.68,
-      "lon": 140.68
+      "name": "柳津町大成沢",
+      "region": "福島県会津",
+      "lat": 37.41,
+      "lon": 139.7017
     },
     {
-      "originalIndex": 881,
-      "code": "881",
-      "lat": 36.71,
-      "lon": 140.71
+      "name": "南会津町田島",
+      "region": "福島県会津",
+      "lat": 37.2,
+      "lon": 139.7733
     },
     {
-      "originalIndex": 882,
-      "code": "882",
-      "lat": 36.71,
-      "lon": 140.715
+      "name": "水戸市金町",
+      "region": "茨城県北部",
+      "lat": 36.3817,
+      "lon": 140.4683
     },
     {
-      "originalIndex": 883,
-      "code": "883",
-      "lat": 36.8,
-      "lon": 140.75
+      "name": "常陸太田市町屋町",
+      "region": "茨城県北部",
+      "lat": 36.6133,
+      "lon": 140.565
     },
     {
-      "originalIndex": 884,
-      "code": "884",
-      "lat": 36.78,
-      "lon": 140.73
-    },
-    {
-      "originalIndex": 886,
-      "code": "886",
-      "lat": 36.35,
-      "lon": 140.3
-    },
-    {
-      "originalIndex": 891,
-      "code": "891",
-      "lat": 36.4,
-      "lon": 140.54
-    },
-    {
-      "originalIndex": 898,
-      "code": "898",
-      "lat": 36.46,
-      "lon": 140.49
-    },
-    {
-      "originalIndex": 905,
-      "code": "905",
-      "lat": 36.48,
-      "lon": 140.38
-    },
-    {
-      "originalIndex": 908,
-      "code": "908",
-      "lat": 36.47,
-      "lon": 140.57
-    },
-    {
-      "originalIndex": 914,
-      "code": "914",
-      "lat": 36.18,
-      "lon": 139.7
-    },
-    {
-      "originalIndex": 921,
-      "code": "921",
-      "lat": 35.91,
-      "lon": 140.18
-    },
-    {
-      "originalIndex": 926,
-      "code": "926",
-      "lat": 35.91,
-      "lon": 140.05
-    },
-    {
-      "originalIndex": 927,
-      "code": "927",
-      "lat": 35.91,
-      "lon": 140.07
-    },
-    {
-      "originalIndex": 928,
-      "code": "928",
-      "lat": 35.92,
-      "lon": 140.11
-    },
-    {
-      "originalIndex": 929,
-      "code": "929",
-      "lat": 35.98,
-      "lon": 140.15
-    },
-    {
-      "originalIndex": 932,
-      "code": "932",
-      "lat": 35.99,
-      "lon": 140.11
-    },
-    {
-      "originalIndex": 933,
-      "code": "933",
-      "lat": 35.97,
-      "lon": 140.65
-    },
-    {
-      "originalIndex": 934,
-      "code": "934",
-      "lat": 35.98,
-      "lon": 140.63
-    },
-    {
-      "originalIndex": 935,
-      "code": "935",
-      "lat": 35.97,
-      "lon": 140.53
-    },
-    {
-      "originalIndex": 936,
-      "code": "936",
-      "lat": 35.95,
-      "lon": 140.56
-    },
-    {
-      "originalIndex": 937,
-      "code": "937",
-      "lat": 35.95,
-      "lon": 139.98
-    },
-    {
-      "originalIndex": 949,
-      "code": "949",
-      "lat": 35.93,
-      "lon": 140.46
-    },
-    {
-      "originalIndex": 950,
-      "code": "950",
-      "lat": 35.97,
-      "lon": 140.41
-    },
-    {
-      "originalIndex": 956,
-      "code": "956",
-      "lat": 35.89,
-      "lon": 140.66
-    },
-    {
-      "originalIndex": 957,
-      "code": "957",
-      "lat": 35.76,
-      "lon": 140.81
-    },
-    {
-      "originalIndex": 959,
-      "code": "959",
-      "lat": 35.99,
-      "lon": 140.49
-    },
-    {
-      "originalIndex": 964,
-      "code": "964",
-      "lat": 35.99,
-      "lon": 140.01
-    },
-    {
-      "originalIndex": 965,
-      "code": "965",
-      "lat": 35.96,
-      "lon": 140.04
-    },
-    {
-      "originalIndex": 970,
-      "code": "970",
-      "lat": 36.11,
-      "lon": 139.75
-    },
-    {
-      "originalIndex": 971,
-      "code": "971",
-      "lat": 36.11,
-      "lon": 139.79
-    },
-    {
-      "originalIndex": 972,
-      "code": "972",
-      "lat": 35.86,
-      "lon": 140.14
-    },
-    {
-      "originalIndex": 973,
-      "code": "973",
-      "lat": 36.73,
-      "lon": 139.69
-    },
-    {
-      "originalIndex": 975,
-      "code": "975",
-      "lat": 36.82,
-      "lon": 139.72
-    },
-    {
-      "originalIndex": 978,
-      "code": "978",
-      "lat": 36.75,
-      "lon": 139.71
-    },
-    {
-      "originalIndex": 980,
-      "code": "980",
-      "lat": 36.82,
-      "lon": 139.725
-    },
-    {
-      "originalIndex": 983,
-      "code": "983",
-      "lat": 36.72,
-      "lon": 139.7
-    },
-    {
-      "originalIndex": 984,
-      "code": "984",
-      "lat": 36.86,
-      "lon": 140.12
-    },
-    {
-      "originalIndex": 989,
-      "code": "989",
-      "lat": 36.94,
-      "lon": 140.08
-    },
-    {
-      "originalIndex": 994,
-      "code": "994",
-      "lat": 36.78,
-      "lon": 139.86
-    },
-    {
-      "originalIndex": 1003,
-      "code": "1003",
+      "name": "ひたちなか市山ノ上町",
+      "region": "茨城県北部",
       "lat": 36.34,
-      "lon": 139.7
+      "lon": 140.5867
     },
     {
-      "originalIndex": 1004,
-      "code": "1004",
-      "lat": 36.26,
-      "lon": 139.65
+      "name": "常陸大宮市中富町",
+      "region": "茨城県北部",
+      "lat": 36.5433,
+      "lon": 140.4117
     },
     {
-      "originalIndex": 1007,
-      "code": "1007",
-      "lat": 36.32,
-      "lon": 139.66
-    },
-    {
-      "originalIndex": 1011,
-      "code": "1011",
-      "lat": 36.31,
-      "lon": 139.58
-    },
-    {
-      "originalIndex": 1014,
-      "code": "1014",
-      "lat": 36.52,
-      "lon": 139.67
-    },
-    {
-      "originalIndex": 1016,
-      "code": "1016",
-      "lat": 36.29,
-      "lon": 139.8
-    },
-    {
-      "originalIndex": 1017,
-      "code": "1017",
-      "lat": 36.31,
-      "lon": 139.8
-    },
-    {
-      "originalIndex": 1018,
-      "code": "1018",
-      "lat": 36.44,
-      "lon": 140.02
-    },
-    {
-      "originalIndex": 1019,
-      "code": "1019",
-      "lat": 36.44,
-      "lon": 140.01
-    },
-    {
-      "originalIndex": 1030,
-      "code": "1030",
-      "lat": 36.47,
-      "lon": 140.09
-    },
-    {
-      "originalIndex": 1031,
-      "code": "1031",
-      "lat": 36.53,
-      "lon": 140.16
-    },
-    {
-      "originalIndex": 1032,
-      "code": "1032",
-      "lat": 36.53,
+      "name": "土浦市常名",
+      "region": "茨城県南部",
+      "lat": 36.1033,
       "lon": 140.19
     },
     {
-      "originalIndex": 1033,
-      "code": "1033",
-      "lat": 36.54,
-      "lon": 140.1
+      "name": "石岡市柿岡",
+      "region": "茨城県南部",
+      "lat": 36.235,
+      "lon": 140.19
     },
     {
-      "originalIndex": 1034,
-      "code": "1034",
+      "name": "茨城鹿嶋市鉢形",
+      "region": "茨城県南部",
+      "lat": 35.9667,
+      "lon": 140.6467
+    },
+    {
+      "name": "潮来市堀之内",
+      "region": "茨城県南部",
+      "lat": 35.9667,
+      "lon": 140.5267
+    },
+    {
+      "name": "利根町布川",
+      "region": "茨城県南部",
+      "lat": 35.8583,
+      "lon": 140.1383
+    },
+    {
+      "name": "坂東市岩井",
+      "region": "茨城県南部",
+      "lat": 36.04,
+      "lon": 139.8833
+    },
+    {
+      "name": "筑西市舟生",
+      "region": "茨城県南部",
+      "lat": 36.2517,
+      "lon": 139.9317
+    },
+    {
+      "name": "鉾田市鉾田",
+      "region": "茨城県南部",
+      "lat": 36.1583,
+      "lon": 140.5167
+    },
+    {
+      "name": "日光市瀬川",
+      "region": "栃木県北部",
+      "lat": 36.735,
+      "lon": 139.6883
+    },
+    {
+      "name": "日光市中宮祠",
+      "region": "栃木県北部",
+      "lat": 36.74,
+      "lon": 139.495
+    },
+    {
+      "name": "大田原市黒羽田町",
+      "region": "栃木県北部",
+      "lat": 36.8633,
+      "lon": 140.1217
+    },
+    {
+      "name": "那須塩原市蟇沼",
+      "region": "栃木県北部",
+      "lat": 36.9717,
+      "lon": 139.9167
+    },
+    {
+      "name": "宇都宮市明保野町",
+      "region": "栃木県南部",
       "lat": 36.55,
-      "lon": 140.06
+      "lon": 139.8683
     },
     {
-      "originalIndex": 1036,
-      "code": "1036",
-      "lat": 36.23,
-      "lon": 139.74
+      "name": "栃木市旭町",
+      "region": "栃木県南部",
+      "lat": 36.3767,
+      "lon": 139.7367
     },
     {
-      "originalIndex": 1115,
-      "code": "1115",
-      "lat": 36.22,
-      "lon": 139.6
+      "name": "益子町益子",
+      "region": "栃木県南部",
+      "lat": 36.4667,
+      "lon": 140.0933
     },
     {
-      "originalIndex": 1116,
-      "code": "1116",
-      "lat": 36.21,
-      "lon": 139.53
+      "name": "那須烏山市神長",
+      "region": "栃木県南部",
+      "lat": 36.6583,
+      "lon": 140.1333
     },
     {
-      "originalIndex": 1127,
-      "code": "1127",
-      "lat": 36.13,
-      "lon": 139.6
+      "name": "沼田市西倉内町",
+      "region": "群馬県北部",
+      "lat": 36.6467,
+      "lon": 139.0433
     },
     {
-      "originalIndex": 1128,
-      "code": "1128",
-      "lat": 36.1,
-      "lon": 139.57
+      "name": "沼田市尾瀬高等学校",
+      "region": "群馬県北部",
+      "lat": 36.73,
+      "lon": 139.2233
     },
     {
-      "originalIndex": 1129,
-      "code": "1129",
+      "name": "中之条町日影",
+      "region": "群馬県北部",
+      "lat": 36.565,
+      "lon": 138.6367
+    },
+    {
+      "name": "東吾妻町原町",
+      "region": "群馬県北部",
+      "lat": 36.5717,
+      "lon": 138.8217
+    },
+    {
+      "name": "前橋市昭和町",
+      "region": "群馬県南部",
+      "lat": 36.405,
+      "lon": 139.06
+    },
+    {
+      "name": "桐生市錦町",
+      "region": "群馬県南部",
+      "lat": 36.4033,
+      "lon": 139.3317
+    },
+    {
+      "name": "富岡市七日市",
+      "region": "群馬県南部",
+      "lat": 36.2633,
+      "lon": 138.88
+    },
+    {
+      "name": "板倉町板倉",
+      "region": "群馬県南部",
+      "lat": 36.225,
+      "lon": 139.6017
+    },
+    {
+      "name": "熊谷市桜町",
+      "region": "埼玉県北部",
+      "lat": 36.15,
+      "lon": 139.38
+    },
+    {
+      "name": "本庄市児玉町",
+      "region": "埼玉県北部",
       "lat": 36.19,
-      "lon": 139.66
+      "lon": 139.1283
     },
     {
-      "originalIndex": 1130,
-      "code": "1130",
-      "lat": 36.14,
-      "lon": 139.66
-    },
-    {
-      "originalIndex": 1135,
-      "code": "1135",
-      "lat": 36.17,
-      "lon": 139.55
-    },
-    {
-      "originalIndex": 1136,
-      "code": "1136",
-      "lat": 36.07,
-      "lon": 139.52
-    },
-    {
-      "originalIndex": 1137,
-      "code": "1137",
-      "lat": 36.11,
-      "lon": 139.51
-    },
-    {
-      "originalIndex": 1143,
-      "code": "1143",
+      "name": "久喜市下早見",
+      "region": "埼玉県北部",
       "lat": 36.06,
-      "lon": 139.67
+      "lon": 139.6667
     },
     {
-      "originalIndex": 1144,
-      "code": "1144",
-      "lat": 36.07,
-      "lon": 139.7
+      "name": "鳩山町大豆戸",
+      "region": "埼玉県北部",
+      "lat": 35.9817,
+      "lon": 139.3333
     },
     {
-      "originalIndex": 1145,
-      "code": "1145",
-      "lat": 36.06,
-      "lon": 139.6
-    },
-    {
-      "originalIndex": 1146,
-      "code": "1146",
-      "lat": 36.13,
-      "lon": 139.7
-    },
-    {
-      "originalIndex": 1147,
-      "code": "1147",
-      "lat": 36.1,
-      "lon": 139.67
-    },
-    {
-      "originalIndex": 1172,
-      "code": "1172",
-      "lat": 35.95,
-      "lon": 139.7
-    },
-    {
-      "originalIndex": 1173,
-      "code": "1173",
+      "name": "川越市旭町",
+      "region": "埼玉県南部",
       "lat": 35.9,
-      "lon": 139.47
+      "lon": 139.4733
     },
     {
-      "originalIndex": 1174,
-      "code": "1174",
-      "lat": 35.9,
-      "lon": 139.48
-    },
-    {
-      "originalIndex": 1178,
-      "code": "1178",
-      "lat": 35.8,
-      "lon": 139.47
-    },
-    {
-      "originalIndex": 1179,
-      "code": "1179",
-      "lat": 35.8,
-      "lon": 139.475
-    },
-    {
-      "originalIndex": 1180,
-      "code": "1180",
+      "name": "飯能市下直竹",
+      "region": "埼玉県南部",
       "lat": 35.84,
-      "lon": 139.28
+      "lon": 139.2783
     },
     {
-      "originalIndex": 1181,
-      "code": "1181",
-      "lat": 35.84,
-      "lon": 139.32
+      "name": "さいたま浦和区高砂",
+      "region": "埼玉県南部",
+      "lat": 35.8583,
+      "lon": 139.6483
     },
     {
-      "originalIndex": 1182,
-      "code": "1182",
-      "lat": 35.86,
-      "lon": 139.33
-    },
-    {
-      "originalIndex": 1184,
-      "code": "1184",
-      "lat": 35.98,
-      "lon": 139.75
-    },
-    {
-      "originalIndex": 1185,
-      "code": "1185",
+      "name": "秩父市上町",
+      "region": "埼玉県秩父",
       "lat": 35.99,
+      "lon": 139.0733
+    },
+    {
+      "name": "小鹿野町両神薄",
+      "region": "埼玉県秩父",
+      "lat": 36.02,
+      "lon": 138.8983
+    },
+    {
+      "name": "銚子市川口町",
+      "region": "千葉県北東部",
+      "lat": 35.74,
+      "lon": 140.8583
+    },
+    {
+      "name": "銚子市小畑新町",
+      "region": "千葉県北東部",
+      "lat": 35.7217,
+      "lon": 140.8583
+    },
+    {
+      "name": "東金市東新宿",
+      "region": "千葉県北東部",
+      "lat": 35.56,
+      "lon": 140.3683
+    },
+    {
+      "name": "多古町多古",
+      "region": "千葉県北東部",
+      "lat": 35.735,
+      "lon": 140.4667
+    },
+    {
+      "name": "一宮町一宮",
+      "region": "千葉県北東部",
+      "lat": 35.3717,
+      "lon": 140.3683
+    },
+    {
+      "name": "長南町総合グラウンド",
+      "region": "千葉県北東部",
+      "lat": 35.385,
+      "lon": 140.235
+    },
+    {
+      "name": "香取市佐原平田",
+      "region": "千葉県北東部",
+      "lat": 35.8867,
+      "lon": 140.5067
+    },
+    {
+      "name": "山武市松尾町富士見台",
+      "region": "千葉県北東部",
+      "lat": 35.6433,
+      "lon": 140.4483
+    },
+    {
+      "name": "千葉中央区中央港",
+      "region": "千葉県北西部",
+      "lat": 35.6033,
+      "lon": 140.105
+    },
+    {
+      "name": "千葉美浜区ひび野",
+      "region": "千葉県北西部",
+      "lat": 35.6433,
+      "lon": 140.04
+    },
+    {
+      "name": "成田国際空港",
+      "region": "千葉県北西部",
+      "lat": 35.775,
+      "lon": 140.3817
+    },
+    {
+      "name": "成田市名古屋",
+      "region": "千葉県北西部",
+      "lat": 35.8633,
+      "lon": 140.3617
+    },
+    {
+      "name": "柏市旭町",
+      "region": "千葉県北西部",
+      "lat": 35.86,
+      "lon": 139.9583
+    },
+    {
+      "name": "浦安市日の出",
+      "region": "千葉県北西部",
+      "lat": 35.645,
+      "lon": 139.9233
+    },
+    {
+      "name": "館山市長須賀",
+      "region": "千葉県南部",
+      "lat": 34.9867,
+      "lon": 139.865
+    },
+    {
+      "name": "木更津市太田",
+      "region": "千葉県南部",
+      "lat": 35.3783,
+      "lon": 139.945
+    },
+    {
+      "name": "勝浦市墨名",
+      "region": "千葉県南部",
+      "lat": 35.15,
+      "lon": 140.3117
+    },
+    {
+      "name": "鴨川市八色",
+      "region": "千葉県南部",
+      "lat": 35.1133,
+      "lon": 140.0983
+    },
+    {
+      "name": "鴨川市内浦",
+      "region": "千葉県南部",
+      "lat": 35.16,
+      "lon": 140.1983
+    },
+    {
+      "name": "南房総市上堀",
+      "region": "千葉県南部",
+      "lat": 35.035,
+      "lon": 139.8867
+    },
+    {
+      "name": "東京千代田区大手町",
+      "region": "東京都２３区",
+      "lat": 35.6883,
+      "lon": 139.7567
+    },
+    {
+      "name": "東京港区海岸",
+      "region": "東京都２３区",
+      "lat": 35.6383,
+      "lon": 139.7533
+    },
+    {
+      "name": "東京新宿区西新宿",
+      "region": "東京都２３区",
+      "lat": 35.69,
+      "lon": 139.695
+    },
+    {
+      "name": "東京墨田区横川",
+      "region": "東京都２３区",
+      "lat": 35.7033,
+      "lon": 139.815
+    },
+    {
+      "name": "東京江東区青海",
+      "region": "東京都２３区",
+      "lat": 35.6167,
+      "lon": 139.7817
+    },
+    {
+      "name": "東京国際空港",
+      "region": "東京都２３区",
+      "lat": 35.535,
       "lon": 139.8
     },
     {
-      "originalIndex": 1186,
-      "code": "1186",
-      "lat": 35.96,
-      "lon": 139.74
-    },
-    {
-      "originalIndex": 1187,
-      "code": "1187",
-      "lat": 35.85,
-      "lon": 139.41
-    },
-    {
-      "originalIndex": 1188,
-      "code": "1188",
-      "lat": 35.98,
-      "lon": 139.59
-    },
-    {
-      "originalIndex": 1193,
-      "code": "1193",
-      "lat": 35.84,
-      "lon": 139.39
-    },
-    {
-      "originalIndex": 1198,
-      "code": "1198",
-      "lat": 36,
-      "lon": 139.56
-    },
-    {
-      "originalIndex": 1201,
-      "code": "1201",
-      "lat": 35.86,
-      "lon": 139.55
-    },
-    {
-      "originalIndex": 1203,
-      "code": "1203",
-      "lat": 35.99,
-      "lon": 139.66
-    },
-    {
-      "originalIndex": 1204,
-      "code": "1204",
-      "lat": 35.96,
-      "lon": 139.4
-    },
-    {
-      "originalIndex": 1205,
-      "code": "1205",
-      "lat": 36.08,
-      "lon": 139.73
-    },
-    {
-      "originalIndex": 1206,
-      "code": "1206",
-      "lat": 35.93,
-      "lon": 139.39
-    },
-    {
-      "originalIndex": 1209,
-      "code": "1209",
-      "lat": 35.88,
-      "lon": 139.52
-    },
-    {
-      "originalIndex": 1210,
-      "code": "1210",
-      "lat": 35.86,
-      "lon": 139.51
-    },
-    {
-      "originalIndex": 1211,
-      "code": "1211",
-      "lat": 36.02,
-      "lon": 139.68
-    },
-    {
-      "originalIndex": 1212,
-      "code": "1212",
-      "lat": 36,
-      "lon": 139.62
-    },
-    {
-      "originalIndex": 1213,
-      "code": "1213",
-      "lat": 35.83,
-      "lon": 139.53
-    },
-    {
-      "originalIndex": 1216,
-      "code": "1216",
-      "lat": 35.99,
-      "lon": 139.48
-    },
-    {
-      "originalIndex": 1217,
-      "code": "1217",
-      "lat": 36.02,
-      "lon": 139.72
-    },
-    {
-      "originalIndex": 1218,
-      "code": "1218",
-      "lat": 36.03,
-      "lon": 139.74
-    },
-    {
-      "originalIndex": 1236,
-      "code": "1236",
-      "lat": 35.74,
-      "lon": 140.83
-    },
-    {
-      "originalIndex": 1237,
-      "code": "1237",
-      "lat": 35.43,
-      "lon": 140.29
-    },
-    {
-      "originalIndex": 1241,
-      "code": "1241",
-      "lat": 35.77,
-      "lon": 140.62
-    },
-    {
-      "originalIndex": 1242,
-      "code": "1242",
-      "lat": 35.73,
-      "lon": 140.69
-    },
-    {
-      "originalIndex": 1243,
-      "code": "1243",
-      "lat": 35.71,
-      "lon": 140.71
-    },
-    {
-      "originalIndex": 1244,
-      "code": "1244",
-      "lat": 35.72,
-      "lon": 140.65
-    },
-    {
-      "originalIndex": 1245,
-      "code": "1245",
-      "lat": 35.71,
-      "lon": 140.56
-    },
-    {
-      "originalIndex": 1246,
-      "code": "1246",
-      "lat": 35.66,
-      "lon": 140.57
-    },
-    {
-      "originalIndex": 1247,
-      "code": "1247",
-      "lat": 35.89,
-      "lon": 140.51
-    },
-    {
-      "originalIndex": 1248,
-      "code": "1248",
-      "lat": 35.89,
-      "lon": 140.49
-    },
-    {
-      "originalIndex": 1249,
-      "code": "1249",
-      "lat": 35.9,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 1253,
-      "code": "1253",
-      "lat": 35.64,
-      "lon": 140.45
-    },
-    {
-      "originalIndex": 1254,
-      "code": "1254",
-      "lat": 35.59,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 1255,
-      "code": "1255",
-      "lat": 35.64,
-      "lon": 140.38
-    },
-    {
-      "originalIndex": 1256,
-      "code": "1256",
-      "lat": 35.6,
-      "lon": 140.41
-    },
-    {
-      "originalIndex": 1257,
-      "code": "1257",
-      "lat": 35.6,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 1258,
-      "code": "1258",
-      "lat": 35.64,
-      "lon": 140.46
-    },
-    {
-      "originalIndex": 1260,
-      "code": "1260",
-      "lat": 35.9,
-      "lon": 140.4
-    },
-    {
-      "originalIndex": 1261,
-      "code": "1261",
-      "lat": 35.74,
-      "lon": 140.47
-    },
-    {
-      "originalIndex": 1262,
-      "code": "1262",
-      "lat": 35.84,
-      "lon": 140.67
-    },
-    {
-      "originalIndex": 1264,
-      "code": "1264",
-      "lat": 35.69,
-      "lon": 140.41
-    },
-    {
-      "originalIndex": 1265,
-      "code": "1265",
-      "lat": 35.67,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 1266,
-      "code": "1266",
-      "lat": 35.66,
-      "lon": 140.5
-    },
-    {
-      "originalIndex": 1267,
-      "code": "1267",
-      "lat": 35.37,
-      "lon": 140.37
-    },
-    {
-      "originalIndex": 1268,
-      "code": "1268",
-      "lat": 35.36,
-      "lon": 140.32
-    },
-    {
-      "originalIndex": 1269,
-      "code": "1269",
-      "lat": 35.41,
-      "lon": 140.35
-    },
-    {
-      "originalIndex": 1270,
-      "code": "1270",
-      "lat": 35.45,
-      "lon": 140.37
-    },
-    {
-      "originalIndex": 1271,
-      "code": "1271",
-      "lat": 35.43,
-      "lon": 140.23
-    },
-    {
-      "originalIndex": 1272,
-      "code": "1272",
-      "lat": 35.38,
-      "lon": 140.24
-    },
-    {
-      "originalIndex": 1273,
-      "code": "1273",
-      "lat": 35.39,
-      "lon": 140.24
-    },
-    {
-      "originalIndex": 1292,
-      "code": "1292",
-      "lat": 35.78,
-      "lon": 140.31
-    },
-    {
-      "originalIndex": 1293,
-      "code": "1293",
-      "lat": 35.78,
-      "lon": 140.32
-    },
-    {
-      "originalIndex": 1296,
-      "code": "1296",
-      "lat": 35.72,
-      "lon": 140.22
-    },
-    {
-      "originalIndex": 1299,
-      "code": "1299",
-      "lat": 35.87,
-      "lon": 139.98
-    },
-    {
-      "originalIndex": 1300,
-      "code": "1300",
-      "lat": 35.84,
-      "lon": 140.01
-    },
-    {
-      "originalIndex": 1301,
-      "code": "1301",
-      "lat": 35.47,
-      "lon": 140.05
-    },
-    {
-      "originalIndex": 1302,
-      "code": "1302",
-      "lat": 35.5,
-      "lon": 140.12
-    },
-    {
-      "originalIndex": 1305,
-      "code": "1305",
-      "lat": 35.86,
-      "lon": 140.03
-    },
-    {
-      "originalIndex": 1306,
-      "code": "1306",
-      "lat": 35.78,
-      "lon": 140
-    },
-    {
-      "originalIndex": 1309,
-      "code": "1309",
-      "lat": 35.67,
-      "lon": 140.17
-    },
-    {
-      "originalIndex": 1310,
-      "code": "1310",
-      "lat": 35.67,
-      "lon": 140.32
-    },
-    {
-      "originalIndex": 1311,
-      "code": "1311",
-      "lat": 35.83,
-      "lon": 140.15
-    },
-    {
-      "originalIndex": 1312,
-      "code": "1312",
-      "lat": 35.82,
-      "lon": 140.2
-    },
-    {
-      "originalIndex": 1313,
-      "code": "1313",
-      "lat": 35.78,
-      "lon": 140.2
-    },
-    {
-      "originalIndex": 1314,
-      "code": "1314",
-      "lat": 35.79,
-      "lon": 140.06
-    },
-    {
-      "originalIndex": 1315,
-      "code": "1315",
-      "lat": 35.73,
-      "lon": 140.34
-    },
-    {
-      "originalIndex": 1316,
-      "code": "1316",
-      "lat": 35.72,
-      "lon": 140.27
-    },
-    {
-      "originalIndex": 1322,
-      "code": "1322",
-      "lat": 35.15,
-      "lon": 140.31
-    },
-    {
-      "originalIndex": 1323,
-      "code": "1323",
-      "lat": 35.15,
-      "lon": 140.32
-    },
-    {
-      "originalIndex": 1328,
-      "code": "1328",
-      "lat": 35.3,
-      "lon": 140.07
-    },
-    {
-      "originalIndex": 1329,
-      "code": "1329",
-      "lat": 35.33,
-      "lon": 139.9
-    },
-    {
-      "originalIndex": 1330,
-      "code": "1330",
-      "lat": 35.3,
-      "lon": 139.86
-    },
-    {
-      "originalIndex": 1331,
-      "code": "1331",
-      "lat": 35.43,
-      "lon": 139.95
-    },
-    {
-      "originalIndex": 1342,
-      "code": "1342",
-      "lat": 35.29,
-      "lon": 140.31
-    },
-    {
-      "originalIndex": 1343,
-      "code": "1343",
-      "lat": 35.29,
-      "lon": 140.25
-    },
-    {
-      "originalIndex": 1418,
-      "code": "1418",
-      "lat": 35.72,
-      "lon": 139.41
-    },
-    {
-      "originalIndex": 1424,
-      "code": "1424",
-      "lat": 35.71,
-      "lon": 139.35
-    },
-    {
-      "originalIndex": 1431,
-      "code": "1431",
-      "lat": 35.73,
-      "lon": 139.48
-    },
-    {
-      "originalIndex": 1433,
-      "code": "1433",
-      "lat": 35.76,
-      "lon": 139.47
-    },
-    {
-      "originalIndex": 1434,
-      "code": "1434",
-      "lat": 35.75,
-      "lon": 139.45
-    },
-    {
-      "originalIndex": 1435,
-      "code": "1435",
-      "lat": 35.72,
-      "lon": 139.45
-    },
-    {
-      "originalIndex": 1436,
-      "code": "1436",
+      "name": "東京杉並区阿佐谷",
+      "region": "東京都２３区",
       "lat": 35.7,
-      "lon": 139.47
+      "lon": 139.6367
     },
     {
-      "originalIndex": 1438,
-      "code": "1438",
-      "lat": 35.74,
-      "lon": 139.33
+      "name": "東京江戸川区中央",
+      "region": "東京都２３区",
+      "lat": 35.7067,
+      "lon": 139.8683
     },
     {
-      "originalIndex": 1440,
-      "code": "1440",
-      "lat": 35.75,
-      "lon": 139.43
+      "name": "八王子市大横町",
+      "region": "東京都多摩東部",
+      "lat": 35.665,
+      "lon": 139.3267
     },
     {
-      "originalIndex": 1444,
-      "code": "1444",
-      "lat": 35.75,
-      "lon": 139.39
+      "name": "国分寺市並木町",
+      "region": "東京都多摩東部",
+      "lat": 35.715,
+      "lon": 139.45
     },
     {
-      "originalIndex": 1448,
-      "code": "1448",
-      "lat": 35.77,
-      "lon": 139.31
+      "name": "青梅市東青梅",
+      "region": "東京都多摩西部",
+      "lat": 35.7883,
+      "lon": 139.275
     },
     {
-      "originalIndex": 1450,
-      "code": "1450",
-      "lat": 35.77,
-      "lon": 139.35
+      "name": "神津島村金長",
+      "region": "神津島",
+      "lat": 34.19,
+      "lon": 139.1333
     },
     {
-      "originalIndex": 1451,
-      "code": "1451",
-      "lat": 35.79,
-      "lon": 139.28
+      "name": "伊豆大島町差木地",
+      "region": "伊豆大島",
+      "lat": 34.6833,
+      "lon": 139.415
     },
     {
-      "originalIndex": 1452,
-      "code": "1452",
-      "lat": 35.79,
-      "lon": 139.24
-    },
-    {
-      "originalIndex": 1453,
-      "code": "1453",
-      "lat": 35.73,
-      "lon": 139.26
-    },
-    {
-      "originalIndex": 1454,
-      "code": "1454",
-      "lat": 35.74,
-      "lon": 139.26
-    },
-    {
-      "originalIndex": 1461,
-      "code": "1461",
+      "name": "伊豆大島町元町",
+      "region": "伊豆大島",
       "lat": 34.75,
-      "lon": 139.36
+      "lon": 139.355
     },
     {
-      "originalIndex": 1467,
-      "code": "1467",
-      "lat": 34.12,
-      "lon": 139.52
+      "name": "東京利島村東山",
+      "region": "新島",
+      "lat": 34.5233,
+      "lon": 139.2883
     },
     {
-      "originalIndex": 1468,
-      "code": "1468",
-      "lat": 34.06,
-      "lon": 139.55
+      "name": "新島村大原",
+      "region": "新島",
+      "lat": 34.3567,
+      "lon": 139.2733
     },
     {
-      "originalIndex": 1469,
-      "code": "1469",
-      "lat": 34.08,
-      "lon": 139.48
-    },
-    {
-      "originalIndex": 1470,
-      "code": "1470",
-      "lat": 33.89,
-      "lon": 139.59
-    },
-    {
-      "originalIndex": 1483,
-      "code": "1483",
-      "lat": 35.46,
-      "lon": 139.64
-    },
-    {
-      "originalIndex": 1484,
-      "code": "1484",
-      "lat": 35.45,
-      "lon": 139.61
-    },
-    {
-      "originalIndex": 1485,
-      "code": "1485",
-      "lat": 35.44,
-      "lon": 139.65
-    },
-    {
-      "originalIndex": 1486,
-      "code": "1486",
-      "lat": 35.44,
-      "lon": 139.64
-    },
-    {
-      "originalIndex": 1487,
-      "code": "1487",
-      "lat": 35.44,
-      "lon": 139.63
-    },
-    {
-      "originalIndex": 1488,
-      "code": "1488",
-      "lat": 35.45,
-      "lon": 139.64
-    },
-    {
-      "originalIndex": 1489,
-      "code": "1489",
-      "lat": 35.42,
-      "lon": 139.59
-    },
-    {
-      "originalIndex": 1490,
-      "code": "1490",
-      "lat": 35.41,
-      "lon": 139.61
-    },
-    {
-      "originalIndex": 1491,
-      "code": "1491",
-      "lat": 35.45,
-      "lon": 139.6
-    },
-    {
-      "originalIndex": 1493,
-      "code": "1493",
-      "lat": 35.4,
-      "lon": 139.62
-    },
-    {
-      "originalIndex": 1494,
-      "code": "1494",
-      "lat": 35.37,
-      "lon": 139.6
-    },
-    {
-      "originalIndex": 1495,
-      "code": "1495",
-      "lat": 35.38,
-      "lon": 139.65
-    },
-    {
-      "originalIndex": 1496,
-      "code": "1496",
-      "lat": 35.34,
-      "lon": 139.63
-    },
-    {
-      "originalIndex": 1497,
-      "code": "1497",
-      "lat": 35.34,
-      "lon": 139.6
-    },
-    {
-      "originalIndex": 1501,
-      "code": "1501",
-      "lat": 35.43,
-      "lon": 139.56
-    },
-    {
-      "originalIndex": 1502,
-      "code": "1502",
-      "lat": 35.39,
-      "lon": 139.53
-    },
-    {
-      "originalIndex": 1503,
-      "code": "1503",
-      "lat": 35.41,
-      "lon": 139.52
-    },
-    {
-      "originalIndex": 1504,
-      "code": "1504",
-      "lat": 35.39,
-      "lon": 139.57
-    },
-    {
-      "originalIndex": 1505,
-      "code": "1505",
-      "lat": 35.4,
-      "lon": 139.57
-    },
-    {
-      "originalIndex": 1506,
-      "code": "1506",
-      "lat": 35.45,
-      "lon": 139.54
-    },
-    {
-      "originalIndex": 1513,
-      "code": "1513",
-      "lat": 35.46,
-      "lon": 139.5
-    },
-    {
-      "originalIndex": 1514,
-      "code": "1514",
-      "lat": 35.35,
-      "lon": 139.56
-    },
-    {
-      "originalIndex": 1515,
-      "code": "1515",
-      "lat": 35.37,
-      "lon": 139.55
-    },
-    {
-      "originalIndex": 1516,
-      "code": "1516",
-      "lat": 35.43,
-      "lon": 139.52
-    },
-    {
-      "originalIndex": 1536,
-      "code": "1536",
-      "lat": 35.33,
-      "lon": 139.34
-    },
-    {
-      "originalIndex": 1537,
-      "code": "1537",
-      "lat": 35.32,
-      "lon": 139.55
-    },
-    {
-      "originalIndex": 1544,
-      "code": "1544",
-      "lat": 35.3,
-      "lon": 139.59
-    },
-    {
-      "originalIndex": 1552,
-      "code": "1552",
-      "lat": 35.31,
-      "lon": 139.28
-    },
-    {
-      "originalIndex": 1553,
-      "code": "1553",
-      "lat": 35.31,
-      "lon": 139.25
-    },
-    {
-      "originalIndex": 1556,
-      "code": "1556",
-      "lat": 35.62,
-      "lon": 139.16
-    },
-    {
-      "originalIndex": 1564,
-      "code": "1564",
-      "lat": 35.38,
+      "name": "新島村式根島",
+      "region": "新島",
+      "lat": 34.335,
       "lon": 139.21
     },
     {
-      "originalIndex": 1565,
-      "code": "1565",
+      "name": "三宅村神着",
+      "region": "三宅島",
+      "lat": 34.1233,
+      "lon": 139.5217
+    },
+    {
+      "name": "三宅村坪田",
+      "region": "三宅島",
+      "lat": 34.06,
+      "lon": 139.5483
+    },
+    {
+      "name": "御蔵島村西川",
+      "region": "三宅島",
+      "lat": 33.8917,
+      "lon": 139.59
+    },
+    {
+      "name": "八丈町樫立",
+      "region": "八丈島",
+      "lat": 33.0717,
+      "lon": 139.7983
+    },
+    {
+      "name": "八丈町三根",
+      "region": "八丈島",
+      "lat": 33.1133,
+      "lon": 139.7917
+    },
+    {
+      "name": "青ヶ島村",
+      "region": "八丈島",
+      "lat": 32.4633,
+      "lon": 139.7633
+    },
+    {
+      "name": "小笠原村父島西町",
+      "region": "小笠原",
+      "lat": 27.0933,
+      "lon": 142.1917
+    },
+    {
+      "name": "小笠原村父島三日月山",
+      "region": "小笠原",
+      "lat": 27.095,
+      "lon": 142.185
+    },
+    {
+      "name": "小笠原村母島",
+      "region": "小笠原",
+      "lat": 26.6333,
+      "lon": 142.175
+    },
+    {
+      "name": "横浜中区山手町",
+      "region": "神奈川県東部",
+      "lat": 35.44,
+      "lon": 139.6533
+    },
+    {
+      "name": "川崎中原区小杉陣屋町",
+      "region": "神奈川県東部",
+      "lat": 35.5867,
+      "lon": 139.655
+    },
+    {
+      "name": "横須賀市光の丘",
+      "region": "神奈川県東部",
+      "lat": 35.2267,
+      "lon": 139.6633
+    },
+    {
+      "name": "茅ヶ崎市茅ヶ崎",
+      "region": "神奈川県東部",
+      "lat": 35.335,
+      "lon": 139.4033
+    },
+    {
+      "name": "小田原市久野",
+      "region": "神奈川県西部",
+      "lat": 35.2667,
+      "lon": 139.085
+    },
+    {
+      "name": "秦野市曽屋",
+      "region": "神奈川県西部",
       "lat": 35.38,
-      "lon": 139.2
+      "lon": 139.2117
     },
     {
-      "originalIndex": 1568,
-      "code": "1568",
-      "lat": 35.4,
-      "lon": 139.31
+      "name": "湯河原町中央",
+      "region": "神奈川県西部",
+      "lat": 35.1483,
+      "lon": 139.1083
     },
     {
-      "originalIndex": 1569,
-      "code": "1569",
-      "lat": 35.32,
-      "lon": 139.1
+      "name": "相模原中央区中央",
+      "region": "神奈川県西部",
+      "lat": 35.5717,
+      "lon": 139.3733
     },
     {
-      "originalIndex": 1570,
-      "code": "1570",
-      "lat": 35.33,
-      "lon": 139.22
+      "name": "相模原緑区若柳",
+      "region": "神奈川県西部",
+      "lat": 35.6017,
+      "lon": 139.2083
     },
     {
-      "originalIndex": 1571,
-      "code": "1571",
-      "lat": 35.33,
-      "lon": 139.16
+      "name": "甲府市飯田",
+      "region": "山梨県中・西部",
+      "lat": 35.6667,
+      "lon": 138.5533
     },
     {
-      "originalIndex": 1572,
-      "code": "1572",
-      "lat": 35.35,
-      "lon": 139.14
+      "name": "身延町大磯小磯",
+      "region": "山梨県中・西部",
+      "lat": 35.5017,
+      "lon": 138.5417
     },
     {
-      "originalIndex": 1573,
-      "code": "1573",
-      "lat": 35.36,
-      "lon": 139.08
-    },
-    {
-      "originalIndex": 1574,
-      "code": "1574",
-      "lat": 35.34,
-      "lon": 139.12
-    },
-    {
-      "originalIndex": 1576,
-      "code": "1576",
-      "lat": 35.16,
-      "lon": 139.14
-    },
-    {
-      "originalIndex": 1577,
-      "code": "1577",
-      "lat": 35.15,
-      "lon": 139.11
-    },
-    {
-      "originalIndex": 1853,
-      "code": "1853",
-      "lat": 35.53,
-      "lon": 138.61
-    },
-    {
-      "originalIndex": 1855,
-      "code": "1855",
-      "lat": 35.74,
-      "lon": 138.71
-    },
-    {
-      "originalIndex": 1857,
-      "code": "1857",
-      "lat": 35.79,
-      "lon": 138.74
-    },
-    {
-      "originalIndex": 1880,
-      "code": "1880",
-      "lat": 35.55,
-      "lon": 138.67
-    },
-    {
-      "originalIndex": 1884,
-      "code": "1884",
+      "name": "甲州市塩山下於曽",
+      "region": "山梨県中・西部",
       "lat": 35.7,
-      "lon": 138.72
+      "lon": 138.7217
     },
     {
-      "originalIndex": 1885,
-      "code": "1885",
-      "lat": 35.7,
-      "lon": 138.73
-    },
-    {
-      "originalIndex": 1886,
-      "code": "1886",
-      "lat": 35.64,
-      "lon": 138.78
-    },
-    {
-      "originalIndex": 1887,
-      "code": "1887",
-      "lat": 35.7,
-      "lon": 138.73499999999999
-    },
-    {
-      "originalIndex": 1888,
-      "code": "1888",
-      "lat": 35.67,
-      "lon": 138.72
-    },
-    {
-      "originalIndex": 1889,
-      "code": "1889",
-      "lat": 35.57,
-      "lon": 138.56
-    },
-    {
-      "originalIndex": 1898,
-      "code": "1898",
-      "lat": 35.37,
-      "lon": 138.44
-    },
-    {
-      "originalIndex": 1901,
-      "code": "1901",
-      "lat": 35.28,
-      "lon": 138.47
-    },
-    {
-      "originalIndex": 1902,
-      "code": "1902",
-      "lat": 35.28,
-      "lon": 138.46
-    },
-    {
-      "originalIndex": 1903,
-      "code": "1903",
-      "lat": 35.24,
-      "lon": 138.49
-    },
-    {
-      "originalIndex": 1911,
-      "code": "1911",
+      "name": "大月市大月",
+      "region": "山梨県東部・富士五湖",
       "lat": 35.61,
-      "lon": 138.95
+      "lon": 138.9417
     },
     {
-      "originalIndex": 1912,
-      "code": "1912",
-      "lat": 35.61,
-      "lon": 138.945
+      "name": "上野原市四方津",
+      "region": "山梨県東部・富士五湖",
+      "lat": 35.6133,
+      "lon": 139.0817
     },
     {
-      "originalIndex": 1913,
-      "code": "1913",
-      "lat": 35.61,
-      "lon": 139.08
-    },
-    {
-      "originalIndex": 1914,
-      "code": "1914",
-      "lat": 35.57,
-      "lon": 139.08
-    },
-    {
-      "originalIndex": 1915,
-      "code": "1915",
-      "lat": 35.63,
-      "lon": 139.11
-    },
-    {
-      "originalIndex": 1916,
-      "code": "1916",
-      "lat": 35.51,
-      "lon": 139
-    },
-    {
-      "originalIndex": 1920,
-      "code": "1920",
-      "lat": 35.48,
-      "lon": 138.71
-    },
-    {
-      "originalIndex": 1921,
-      "code": "1921",
+      "name": "富士河口湖町船津",
+      "region": "山梨県東部・富士五湖",
       "lat": 35.5,
       "lon": 138.76
     },
     {
-      "originalIndex": 1922,
-      "code": "1922",
-      "lat": 35.47,
-      "lon": 138.61
+      "name": "長野市箱清水",
+      "region": "長野県北部",
+      "lat": 36.6633,
+      "lon": 138.1933
     },
     {
-      "originalIndex": 1923,
-      "code": "1923",
-      "lat": 35.51,
-      "lon": 138.74
+      "name": "長野市松代",
+      "region": "長野県北部",
+      "lat": 36.5433,
+      "lon": 138.2067
     },
     {
-      "originalIndex": 1924,
-      "code": "1924",
-      "lat": 35.5,
-      "lon": 138.75
+      "name": "大町市役所",
+      "region": "長野県北部",
+      "lat": 36.5017,
+      "lon": 137.8517
     },
     {
-      "originalIndex": 1925,
-      "code": "1925",
-      "lat": 35.51,
-      "lon": 138.71
+      "name": "山ノ内町平穏",
+      "region": "長野県北部",
+      "lat": 36.745,
+      "lon": 138.4133
     },
     {
-      "originalIndex": 1926,
-      "code": "1926",
-      "lat": 35.76,
-      "lon": 138.94
-    },
-    {
-      "originalIndex": 1927,
-      "code": "1927",
-      "lat": 35.79,
-      "lon": 138.92
-    },
-    {
-      "originalIndex": 1965,
-      "code": "1965",
-      "lat": 36.25,
+      "name": "松本市沢村",
+      "region": "長野県中部",
+      "lat": 36.2467,
       "lon": 137.97
     },
     {
-      "originalIndex": 1966,
-      "code": "1966",
-      "lat": 36.26,
-      "lon": 137.98
+      "name": "上田市築地",
+      "region": "長野県中部",
+      "lat": 36.4,
+      "lon": 138.2083
     },
     {
-      "originalIndex": 1969,
-      "code": "1969",
-      "lat": 36.22,
-      "lon": 137.87
+      "name": "諏訪市湖岸通り",
+      "region": "長野県中部",
+      "lat": 36.0467,
+      "lon": 138.11
     },
     {
-      "originalIndex": 1970,
-      "code": "1970",
-      "lat": 36.24,
-      "lon": 137.97
+      "name": "佐久市下小田切",
+      "region": "長野県中部",
+      "lat": 36.1933,
+      "lon": 138.4767
     },
     {
-      "originalIndex": 1971,
-      "code": "1971",
-      "lat": 36.2,
-      "lon": 137.86
+      "name": "軽井沢町追分",
+      "region": "長野県中部",
+      "lat": 36.3417,
+      "lon": 138.5467
     },
     {
-      "originalIndex": 1973,
-      "code": "1973",
-      "lat": 36.18,
-      "lon": 137.98
+      "name": "安曇野市穂高支所",
+      "region": "長野県中部",
+      "lat": 36.3383,
+      "lon": 137.8867
     },
     {
-      "originalIndex": 1985,
-      "code": "1985",
-      "lat": 35.97,
-      "lon": 137.83
+      "name": "筑北村坂井",
+      "region": "長野県中部",
+      "lat": 36.45,
+      "lon": 138.0683
     },
     {
-      "originalIndex": 1997,
-      "code": "1997",
-      "lat": 36.29,
-      "lon": 137.88
+      "name": "飯田市高羽町",
+      "region": "長野県南部",
+      "lat": 35.5233,
+      "lon": 137.8233
     },
     {
-      "originalIndex": 2000,
-      "code": "2000",
-      "lat": 36.26,
-      "lon": 137.89
+      "name": "伊那市高遠町荊口",
+      "region": "長野県南部",
+      "lat": 35.8767,
+      "lon": 138.1317
     },
     {
-      "originalIndex": 2019,
-      "code": "2019",
-      "lat": 36.17,
-      "lon": 137.88
+      "name": "辰野町中央",
+      "region": "長野県南部",
+      "lat": 35.9817,
+      "lon": 137.9883
     },
     {
-      "originalIndex": 2020,
-      "code": "2020",
-      "lat": 36.13,
-      "lon": 137.87
-    },
-    {
-      "originalIndex": 2032,
-      "code": "2032",
-      "lat": 35.79,
-      "lon": 138.09
-    },
-    {
-      "originalIndex": 2033,
-      "code": "2033",
-      "lat": 35.73,
-      "lon": 137.93
-    },
-    {
-      "originalIndex": 2034,
-      "code": "2034",
-      "lat": 35.98,
-      "lon": 137.99
-    },
-    {
-      "originalIndex": 2035,
-      "code": "2035",
-      "lat": 35.92,
-      "lon": 137.98
-    },
-    {
-      "originalIndex": 2036,
-      "code": "2036",
-      "lat": 35.68,
+      "name": "飯島町飯島",
+      "region": "長野県南部",
+      "lat": 35.6767,
       "lon": 137.92
     },
     {
-      "originalIndex": 2039,
-      "code": "2039",
-      "lat": 35.77,
-      "lon": 137.94
+      "name": "泰阜村梨久保",
+      "region": "長野県南部",
+      "lat": 35.3633,
+      "lon": 137.86
     },
     {
-      "originalIndex": 2045,
-      "code": "2045",
-      "lat": 35.5,
-      "lon": 137.7
+      "name": "糸魚川市一の宮",
+      "region": "新潟県上越",
+      "lat": 37.0383,
+      "lon": 137.8633
     },
     {
-      "originalIndex": 2057,
-      "code": "2057",
-      "lat": 35.78,
-      "lon": 137.69
+      "name": "上越市中ノ俣",
+      "region": "新潟県上越",
+      "lat": 37.1067,
+      "lon": 138.16
     },
     {
-      "originalIndex": 2058,
-      "code": "2058",
-      "lat": 35.61,
-      "lon": 137.61
+      "name": "上越市大手町",
+      "region": "新潟県上越",
+      "lat": 37.1067,
+      "lon": 138.2467
     },
     {
-      "originalIndex": 2059,
-      "code": "2059",
-      "lat": 35.6,
-      "lon": 137.61
+      "name": "長岡市幸町",
+      "region": "新潟県中越",
+      "lat": 37.435,
+      "lon": 138.84
     },
     {
-      "originalIndex": 2060,
-      "code": "2060",
-      "lat": 35.94,
-      "lon": 137.78
+      "name": "小千谷市城内",
+      "region": "新潟県中越",
+      "lat": 37.3133,
+      "lon": 138.7933
     },
     {
-      "originalIndex": 2064,
-      "code": "2064",
-      "lat": 35.86,
-      "lon": 137.71
+      "name": "出雲崎町米田",
+      "region": "新潟県中越",
+      "lat": 37.535,
+      "lon": 138.7067
     },
     {
-      "originalIndex": 2065,
-      "code": "2065",
-      "lat": 35.94,
-      "lon": 137.6
+      "name": "魚沼市下折立",
+      "region": "新潟県中越",
+      "lat": 37.2083,
+      "lon": 139.0567
     },
     {
-      "originalIndex": 2066,
-      "code": "2066",
-      "lat": 35.85,
-      "lon": 137.63
+      "name": "南魚沼市六日町",
+      "region": "新潟県中越",
+      "lat": 37.065,
+      "lon": 138.8767
     },
     {
-      "originalIndex": 2067,
-      "code": "2067",
-      "lat": 35.88,
-      "lon": 137.76
+      "name": "村上市塩町",
+      "region": "新潟県下越",
+      "lat": 38.2283,
+      "lon": 139.475
     },
     {
-      "originalIndex": 2068,
-      "code": "2068",
-      "lat": 35.85,
-      "lon": 137.7
+      "name": "五泉市村松乙",
+      "region": "新潟県下越",
+      "lat": 37.6933,
+      "lon": 139.175
     },
     {
-      "originalIndex": 2100,
-      "code": "2100",
-      "lat": 35.57,
-      "lon": 137.53
+      "name": "粟島浦村笹畑",
+      "region": "新潟県下越",
+      "lat": 38.4583,
+      "lon": 139.2467
     },
     {
-      "originalIndex": 2106,
-      "code": "2106",
-      "lat": 35.56,
-      "lon": 137.54
+      "name": "阿賀野市畑江",
+      "region": "新潟県下越",
+      "lat": 37.8217,
+      "lon": 139.315
     },
     {
-      "originalIndex": 2187,
-      "code": "2187",
-      "lat": 35.05,
-      "lon": 139.09
+      "name": "胎内市新和町",
+      "region": "新潟県下越",
+      "lat": 38.06,
+      "lon": 139.41
     },
     {
-      "originalIndex": 2188,
-      "code": "2188",
-      "lat": 35.14,
-      "lon": 139.08
+      "name": "新潟空港",
+      "region": "新潟県下越",
+      "lat": 37.9533,
+      "lon": 139.11
     },
     {
-      "originalIndex": 2189,
-      "code": "2189",
-      "lat": 35.1,
-      "lon": 139.07
+      "name": "新潟中央区美咲町",
+      "region": "新潟県下越",
+      "lat": 37.8933,
+      "lon": 139.0183
     },
     {
-      "originalIndex": 2192,
-      "code": "2192",
-      "lat": 34.72,
-      "lon": 138.88
+      "name": "新潟秋葉区程島",
+      "region": "新潟県下越",
+      "lat": 37.7883,
+      "lon": 139.1117
     },
     {
-      "originalIndex": 2194,
-      "code": "2194",
-      "lat": 34.68,
-      "lon": 138.93
+      "name": "新潟西蒲区役所",
+      "region": "新潟県下越",
+      "lat": 37.76,
+      "lon": 138.89
     },
     {
-      "originalIndex": 2206,
-      "code": "2206",
-      "lat": 34.65,
-      "lon": 138.82
+      "name": "佐渡市相川金山",
+      "region": "新潟県佐渡",
+      "lat": 38.04,
+      "lon": 138.2583
     },
     {
-      "originalIndex": 2207,
-      "code": "2207",
-      "lat": 34.65,
-      "lon": 138.86
+      "name": "佐渡市相川三町目",
+      "region": "新潟県佐渡",
+      "lat": 38.03,
+      "lon": 138.24
     },
     {
-      "originalIndex": 2208,
-      "code": "2208",
-      "lat": 34.76,
-      "lon": 138.78
+      "name": "富山市石坂",
+      "region": "富山県東部",
+      "lat": 36.71,
+      "lon": 137.2017
     },
     {
-      "originalIndex": 2209,
-      "code": "2209",
-      "lat": 34.75,
-      "lon": 138.78
+      "name": "富山市八尾町福島",
+      "region": "富山県東部",
+      "lat": 36.5833,
+      "lon": 137.1367
     },
     {
-      "originalIndex": 2210,
-      "code": "2210",
-      "lat": 34.78,
-      "lon": 138.79
+      "name": "魚津市釈迦堂",
+      "region": "富山県東部",
+      "lat": 36.8267,
+      "lon": 137.41
     },
     {
-      "originalIndex": 2211,
-      "code": "2211",
-      "lat": 34.77,
-      "lon": 138.78
+      "name": "立山町吉峰",
+      "region": "富山県東部",
+      "lat": 36.6083,
+      "lon": 137.33
     },
     {
-      "originalIndex": 2213,
-      "code": "2213",
-      "lat": 35.09,
-      "lon": 138.95
+      "name": "富山朝日町道下",
+      "region": "富山県東部",
+      "lat": 36.9467,
+      "lon": 137.56
     },
     {
-      "originalIndex": 2223,
-      "code": "2223",
-      "lat": 35.37,
-      "lon": 138.57
+      "name": "高岡市伏木",
+      "region": "富山県西部",
+      "lat": 36.7917,
+      "lon": 137.0567
     },
     {
-      "originalIndex": 2231,
-      "code": "2231",
-      "lat": 35.31,
-      "lon": 138.93
+      "name": "小矢部市泉町",
+      "region": "富山県西部",
+      "lat": 36.6717,
+      "lon": 136.8733
     },
     {
-      "originalIndex": 2232,
-      "code": "2232",
-      "lat": 35.31,
-      "lon": 138.91
+      "name": "南砺市天池",
+      "region": "富山県西部",
+      "lat": 36.5383,
+      "lon": 136.8833
     },
     {
-      "originalIndex": 2233,
-      "code": "2233",
-      "lat": 35.28,
-      "lon": 138.92
+      "name": "七尾市本府中町",
+      "region": "石川県能登",
+      "lat": 37.0333,
+      "lon": 136.97
     },
     {
-      "originalIndex": 2238,
-      "code": "2238",
-      "lat": 35.36,
-      "lon": 138.99
+      "name": "輪島市舳倉島",
+      "region": "石川県能登",
+      "lat": 37.85,
+      "lon": 136.9167
     },
     {
-      "originalIndex": 2239,
-      "code": "2239",
-      "lat": 35.36,
-      "lon": 138.87
+      "name": "輪島市鳳至町",
+      "region": "石川県能登",
+      "lat": 37.3917,
+      "lon": 136.895
     },
     {
-      "originalIndex": 2246,
-      "code": "2246",
-      "lat": 35.02,
-      "lon": 138.48
+      "name": "珠洲市三崎町",
+      "region": "石川県能登",
+      "lat": 37.45,
+      "lon": 137.3583
     },
     {
-      "originalIndex": 2249,
-      "code": "2249",
-      "lat": 35.07,
-      "lon": 138.52
+      "name": "羽咋市柳田町",
+      "region": "石川県能登",
+      "lat": 36.9283,
+      "lon": 136.78
     },
     {
-      "originalIndex": 2250,
-      "code": "2250",
-      "lat": 34.94,
-      "lon": 138.08
+      "name": "志賀町富来領家町",
+      "region": "石川県能登",
+      "lat": 37.1433,
+      "lon": 136.725
     },
     {
-      "originalIndex": 2251,
-      "code": "2251",
-      "lat": 34.84,
-      "lon": 138.19
+      "name": "能登町宇出津",
+      "region": "石川県能登",
+      "lat": 37.3117,
+      "lon": 137.1467
     },
     {
-      "originalIndex": 2253,
-      "code": "2253",
-      "lat": 34.84,
-      "lon": 138.13
+      "name": "金沢市西念",
+      "region": "石川県加賀",
+      "lat": 36.59,
+      "lon": 136.6333
     },
     {
-      "originalIndex": 2476,
-      "code": "2476",
-      "lat": 34.39,
-      "lon": 136.7
+      "name": "小松市小馬出町",
+      "region": "石川県加賀",
+      "lat": 36.4083,
+      "lon": 136.445
     },
     {
-      "originalIndex": 2482,
-      "code": "2482",
-      "lat": 34.07,
-      "lon": 136.19
+      "name": "加賀市直下町",
+      "region": "石川県加賀",
+      "lat": 36.28,
+      "lon": 136.3283
     },
     {
-      "originalIndex": 2483,
-      "code": "2483",
-      "lat": 34.06,
-      "lon": 136.17
+      "name": "津幡町加賀爪",
+      "region": "石川県加賀",
+      "lat": 36.6683,
+      "lon": 136.7283
     },
     {
-      "originalIndex": 2484,
-      "code": "2484",
-      "lat": 34.07,
-      "lon": 136.195
+      "name": "福井市豊島",
+      "region": "福井県嶺北",
+      "lat": 36.055,
+      "lon": 136.2233
     },
     {
-      "originalIndex": 2486,
-      "code": "2486",
-      "lat": 33.88,
-      "lon": 136.08
+      "name": "勝山市旭町",
+      "region": "福井県嶺北",
+      "lat": 36.0533,
+      "lon": 136.5083
     },
     {
-      "originalIndex": 2487,
-      "code": "2487",
-      "lat": 33.89,
-      "lon": 136.1
+      "name": "越前市高瀬",
+      "region": "福井県嶺北",
+      "lat": 35.9,
+      "lon": 136.1567
     },
     {
-      "originalIndex": 2488,
-      "code": "2488",
-      "lat": 33.88,
-      "lon": 135.92
+      "name": "福井坂井市三国町陣ケ岡",
+      "region": "福井県嶺北",
+      "lat": 36.2383,
+      "lon": 136.1417
     },
     {
-      "originalIndex": 2491,
-      "code": "2491",
-      "lat": 34.28,
-      "lon": 136.88
+      "name": "敦賀市松栄町",
+      "region": "福井県嶺南",
+      "lat": 35.6533,
+      "lon": 136.0617
     },
     {
-      "originalIndex": 2498,
-      "code": "2498",
-      "lat": 34.44,
-      "lon": 136.62
+      "name": "福井美浜町新庄",
+      "region": "福井県嶺南",
+      "lat": 35.5317,
+      "lon": 135.9817
     },
     {
-      "originalIndex": 2500,
-      "code": "2500",
-      "lat": 34.22,
-      "lon": 136.4
-    },
-    {
-      "originalIndex": 2502,
-      "code": "2502",
-      "lat": 34.35,
-      "lon": 136.7
-    },
-    {
-      "originalIndex": 2503,
-      "code": "2503",
-      "lat": 34.28,
-      "lon": 136.5
-    },
-    {
-      "originalIndex": 2505,
-      "code": "2505",
-      "lat": 34.11,
-      "lon": 136.23
-    },
-    {
-      "originalIndex": 2506,
-      "code": "2506",
-      "lat": 34.21,
-      "lon": 136.34
-    },
-    {
-      "originalIndex": 2507,
-      "code": "2507",
-      "lat": 33.82,
-      "lon": 136.03
-    },
-    {
-      "originalIndex": 2508,
-      "code": "2508",
-      "lat": 33.81,
-      "lon": 136.05
-    },
-    {
-      "originalIndex": 2509,
-      "code": "2509",
-      "lat": 33.73,
-      "lon": 136.01
-    },
-    {
-      "originalIndex": 2510,
-      "code": "2510",
-      "lat": 33.75,
-      "lon": 136.01
-    },
-    {
-      "originalIndex": 2543,
-      "code": "2543",
-      "lat": 34.97,
-      "lon": 135.9
-    },
-    {
-      "originalIndex": 2545,
-      "code": "2545",
-      "lat": 34.94,
-      "lon": 135.91
-    },
-    {
-      "originalIndex": 2547,
-      "code": "2547",
-      "lat": 35.13,
-      "lon": 136.1
-    },
-    {
-      "originalIndex": 2548,
-      "code": "2548",
-      "lat": 35.13,
-      "lon": 136.105
-    },
-    {
-      "originalIndex": 2549,
-      "code": "2549",
-      "lat": 35.15,
-      "lon": 136.13
-    },
-    {
-      "originalIndex": 2550,
-      "code": "2550",
-      "lat": 35.01,
-      "lon": 135.96
-    },
-    {
-      "originalIndex": 2551,
-      "code": "2551",
-      "lat": 35.07,
-      "lon": 135.98
-    },
-    {
-      "originalIndex": 2552,
-      "code": "2552",
-      "lat": 35.02,
-      "lon": 136
-    },
-    {
-      "originalIndex": 2557,
-      "code": "2557",
-      "lat": 34.88,
-      "lon": 136.06
-    },
-    {
-      "originalIndex": 2559,
-      "code": "2559",
-      "lat": 35.1,
-      "lon": 136.01
-    },
-    {
-      "originalIndex": 2560,
-      "code": "2560",
-      "lat": 35.07,
-      "lon": 136.03
-    },
-    {
-      "originalIndex": 2561,
-      "code": "2561",
-      "lat": 35.01,
-      "lon": 136.08
-    },
-    {
-      "originalIndex": 2562,
-      "code": "2562",
-      "lat": 35.01,
-      "lon": 136.06
-    },
-    {
-      "originalIndex": 2563,
-      "code": "2563",
-      "lat": 35,
-      "lon": 136.08
-    },
-    {
-      "originalIndex": 2574,
-      "code": "2574",
-      "lat": 35.06,
-      "lon": 136.12
-    },
-    {
-      "originalIndex": 2606,
-      "code": "2606",
-      "lat": 34.97,
-      "lon": 135.75
-    },
-    {
-      "originalIndex": 2609,
-      "code": "2609",
-      "lat": 34.96,
-      "lon": 135.76
-    },
-    {
-      "originalIndex": 2613,
-      "code": "2613",
-      "lat": 34.98,
-      "lon": 135.69
-    },
-    {
-      "originalIndex": 2614,
-      "code": "2614",
-      "lat": 34.97,
-      "lon": 135.68
-    },
-    {
-      "originalIndex": 2615,
-      "code": "2615",
-      "lat": 34.88,
-      "lon": 135.8
-    },
-    {
-      "originalIndex": 2616,
-      "code": "2616",
-      "lat": 34.88,
-      "lon": 135.805
-    },
-    {
-      "originalIndex": 2617,
-      "code": "2617",
-      "lat": 35.01,
-      "lon": 135.57
-    },
-    {
-      "originalIndex": 2618,
-      "code": "2618",
-      "lat": 35.02,
-      "lon": 135.56
-    },
-    {
-      "originalIndex": 2619,
-      "code": "2619",
-      "lat": 34.85,
-      "lon": 135.78
-    },
-    {
-      "originalIndex": 2620,
-      "code": "2620",
-      "lat": 34.95,
-      "lon": 135.7
-    },
-    {
-      "originalIndex": 2621,
-      "code": "2621",
-      "lat": 34.93,
-      "lon": 135.69
-    },
-    {
-      "originalIndex": 2622,
-      "code": "2622",
-      "lat": 34.87,
-      "lon": 135.71
-    },
-    {
-      "originalIndex": 2623,
-      "code": "2623",
-      "lat": 34.81,
-      "lon": 135.77
-    },
-    {
-      "originalIndex": 2628,
-      "code": "2628",
-      "lat": 34.75,
-      "lon": 135.87
-    },
-    {
-      "originalIndex": 2630,
-      "code": "2630",
-      "lat": 34.75,
-      "lon": 135.82
-    },
-    {
-      "originalIndex": 2631,
-      "code": "2631",
-      "lat": 34.9,
-      "lon": 135.69
-    },
-    {
-      "originalIndex": 2632,
-      "code": "2632",
-      "lat": 34.88,
-      "lon": 135.73
-    },
-    {
-      "originalIndex": 2633,
-      "code": "2633",
-      "lat": 34.8,
-      "lon": 135.81
-    },
-    {
-      "originalIndex": 2634,
-      "code": "2634",
-      "lat": 34.84,
-      "lon": 135.87
-    },
-    {
-      "originalIndex": 2636,
-      "code": "2636",
-      "lat": 34.8,
-      "lon": 135.9
-    },
-    {
-      "originalIndex": 2637,
-      "code": "2637",
-      "lat": 34.76,
-      "lon": 135.79
-    },
-    {
-      "originalIndex": 2643,
-      "code": "2643",
-      "lat": 34.71,
-      "lon": 135.53
-    },
-    {
-      "originalIndex": 2644,
-      "code": "2644",
-      "lat": 34.69,
-      "lon": 135.48
-    },
-    {
-      "originalIndex": 2645,
-      "code": "2645",
-      "lat": 34.68,
-      "lon": 135.45
-    },
-    {
-      "originalIndex": 2646,
-      "code": "2646",
-      "lat": 34.67,
-      "lon": 135.47
-    },
-    {
-      "originalIndex": 2647,
-      "code": "2647",
-      "lat": 34.66,
-      "lon": 135.43
-    },
-    {
-      "originalIndex": 2648,
-      "code": "2648",
-      "lat": 34.66,
-      "lon": 135.48
-    },
-    {
-      "originalIndex": 2649,
-      "code": "2649",
-      "lat": 34.66,
-      "lon": 135.52
-    },
-    {
-      "originalIndex": 2650,
-      "code": "2650",
-      "lat": 34.66,
-      "lon": 135.5
-    },
-    {
-      "originalIndex": 2651,
-      "code": "2651",
-      "lat": 34.71,
-      "lon": 135.45
-    },
-    {
-      "originalIndex": 2652,
-      "code": "2652",
-      "lat": 34.73,
-      "lon": 135.51
-    },
-    {
-      "originalIndex": 2653,
-      "code": "2653",
-      "lat": 34.76,
-      "lon": 135.54
-    },
-    {
-      "originalIndex": 2654,
-      "code": "2654",
-      "lat": 34.68,
-      "lon": 135.54
-    },
-    {
-      "originalIndex": 2655,
-      "code": "2655",
-      "lat": 34.65,
-      "lon": 135.54
-    },
-    {
-      "originalIndex": 2656,
-      "code": "2656",
-      "lat": 34.72,
-      "lon": 135.54
-    },
-    {
-      "originalIndex": 2657,
-      "code": "2657",
-      "lat": 34.7,
+      "name": "高浜町宮崎",
+      "region": "福井県嶺南",
+      "lat": 35.4883,
       "lon": 135.55
     },
     {
-      "originalIndex": 2658,
-      "code": "2658",
-      "lat": 34.64,
-      "lon": 135.52
+      "name": "高山市丹生川町森部",
+      "region": "岐阜県飛騨",
+      "lat": 36.2267,
+      "lon": 137.3117
     },
     {
-      "originalIndex": 2660,
-      "code": "2660",
-      "lat": 34.63,
-      "lon": 135.54
+      "name": "高山市桐生町",
+      "region": "岐阜県飛騨",
+      "lat": 36.155,
+      "lon": 137.2533
     },
     {
-      "originalIndex": 2661,
-      "code": "2661",
-      "lat": 34.64,
-      "lon": 135.49
+      "name": "飛騨市神岡町殿",
+      "region": "岐阜県飛騨",
+      "lat": 36.32,
+      "lon": 137.3117
     },
     {
-      "originalIndex": 2662,
-      "code": "2662",
-      "lat": 34.73,
-      "lon": 135.49
+      "name": "下呂市森",
+      "region": "岐阜県飛騨",
+      "lat": 35.805,
+      "lon": 137.2433
     },
     {
-      "originalIndex": 2663,
-      "code": "2663",
-      "lat": 34.7,
-      "lon": 135.57
+      "name": "中津川市かやの木町",
+      "region": "岐阜県美濃東部",
+      "lat": 35.4883,
+      "lon": 137.5
     },
     {
-      "originalIndex": 2666,
-      "code": "2666",
-      "lat": 34.71,
-      "lon": 135.5
+      "name": "美濃加茂市太田町",
+      "region": "岐阜県美濃東部",
+      "lat": 35.44,
+      "lon": 137.0167
     },
     {
-      "originalIndex": 2667,
-      "code": "2667",
-      "lat": 34.68,
-      "lon": 135.52
+      "name": "白川町黒川",
+      "region": "岐阜県美濃東部",
+      "lat": 35.6033,
+      "lon": 137.355
     },
     {
-      "originalIndex": 2668,
-      "code": "2668",
-      "lat": 34.69,
-      "lon": 135.52
+      "name": "岐阜市加納二之丸",
+      "region": "岐阜県美濃中西部",
+      "lat": 35.4,
+      "lon": 136.7633
     },
     {
-      "originalIndex": 2669,
-      "code": "2669",
-      "lat": 34.79,
-      "lon": 135.44
+      "name": "揖斐川町三輪",
+      "region": "岐阜県美濃中西部",
+      "lat": 35.4867,
+      "lon": 136.5683
     },
     {
-      "originalIndex": 2670,
-      "code": "2670",
-      "lat": 34.77,
-      "lon": 135.47
+      "name": "岐阜山県市谷合運動場",
+      "region": "岐阜県美濃中西部",
+      "lat": 35.5933,
+      "lon": 136.735
     },
     {
-      "originalIndex": 2671,
-      "code": "2671",
-      "lat": 34.78,
-      "lon": 135.47
+      "name": "郡上市八幡町島谷",
+      "region": "岐阜県美濃中西部",
+      "lat": 35.7483,
+      "lon": 136.9633
     },
     {
-      "originalIndex": 2673,
-      "code": "2673",
-      "lat": 34.76,
-      "lon": 135.52
+      "name": "熱海市網代",
+      "region": "静岡県伊豆",
+      "lat": 35.0483,
+      "lon": 139.0933
     },
     {
-      "originalIndex": 2674,
-      "code": "2674",
-      "lat": 34.85,
-      "lon": 135.62
+      "name": "伊東市大原",
+      "region": "静岡県伊豆",
+      "lat": 34.965,
+      "lon": 139.1017
     },
     {
-      "originalIndex": 2675,
-      "code": "2675",
-      "lat": 34.86,
-      "lon": 135.6
+      "name": "下田市加増野",
+      "region": "静岡県伊豆",
+      "lat": 34.7217,
+      "lon": 138.875
     },
     {
-      "originalIndex": 2676,
-      "code": "2676",
+      "name": "南伊豆町石廊崎",
+      "region": "静岡県伊豆",
+      "lat": 34.6033,
+      "lon": 138.8433
+    },
+    {
+      "name": "伊豆市中伊豆グラウンド",
+      "region": "静岡県伊豆",
+      "lat": 34.9583,
+      "lon": 139.0083
+    },
+    {
+      "name": "三島市東本町",
+      "region": "静岡県東部",
+      "lat": 35.1133,
+      "lon": 138.925
+    },
+    {
+      "name": "富士宮市弓沢町",
+      "region": "静岡県東部",
+      "lat": 35.2233,
+      "lon": 138.6217
+    },
+    {
+      "name": "富士市富士総合運動公園",
+      "region": "静岡県東部",
+      "lat": 35.1933,
+      "lon": 138.685
+    },
+    {
+      "name": "御殿場市萩原",
+      "region": "静岡県東部",
+      "lat": 35.31,
+      "lon": 138.93
+    },
+    {
+      "name": "島田市川根町家山",
+      "region": "静岡県中部",
+      "lat": 34.9383,
+      "lon": 138.075
+    },
+    {
+      "name": "島田市元島田",
+      "region": "静岡県中部",
       "lat": 34.84,
-      "lon": 135.61
+      "lon": 138.185
     },
     {
-      "originalIndex": 2677,
-      "code": "2677",
-      "lat": 34.74,
-      "lon": 135.56
+      "name": "静岡駿河区曲金",
+      "region": "静岡県中部",
+      "lat": 34.9767,
+      "lon": 138.4033
     },
     {
-      "originalIndex": 2678,
-      "code": "2678",
-      "lat": 34.81,
-      "lon": 135.65
+      "name": "静岡清水区千歳町",
+      "region": "静岡県中部",
+      "lat": 35.0167,
+      "lon": 138.485
     },
     {
-      "originalIndex": 2679,
-      "code": "2679",
-      "lat": 34.81,
-      "lon": 135.57
+      "name": "牧之原市鬼女新田",
+      "region": "静岡県中部",
+      "lat": 34.6783,
+      "lon": 138.1833
     },
     {
-      "originalIndex": 2680,
-      "code": "2680",
+      "name": "掛川市篠場",
+      "region": "静岡県西部",
+      "lat": 34.7517,
+      "lon": 137.985
+    },
+    {
+      "name": "袋井市新屋",
+      "region": "静岡県西部",
+      "lat": 34.75,
+      "lon": 137.9233
+    },
+    {
+      "name": "御前崎市御前崎",
+      "region": "静岡県西部",
+      "lat": 34.605,
+      "lon": 138.2133
+    },
+    {
+      "name": "浜松中央区高丘東",
+      "region": "静岡県西部",
+      "lat": 34.7533,
+      "lon": 137.7117
+    },
+    {
+      "name": "浜松浜名区三ヶ日町",
+      "region": "静岡県西部",
+      "lat": 34.8033,
+      "lon": 137.5567
+    },
+    {
+      "name": "浜松浜名区滝沢町",
+      "region": "静岡県西部",
+      "lat": 34.86,
+      "lon": 137.7183
+    },
+    {
+      "name": "豊橋市向山",
+      "region": "愛知県東部",
+      "lat": 34.7567,
+      "lon": 137.4067
+    },
+    {
+      "name": "新城市乗本",
+      "region": "愛知県東部",
+      "lat": 34.9317,
+      "lon": 137.575
+    },
+    {
+      "name": "新城市作手清岳",
+      "region": "愛知県東部",
+      "lat": 34.9683,
+      "lon": 137.4233
+    },
+    {
+      "name": "田原市石神町",
+      "region": "愛知県東部",
+      "lat": 34.635,
+      "lon": 137.14
+    },
+    {
+      "name": "田原市福江町",
+      "region": "愛知県東部",
       "lat": 34.63,
-      "lon": 135.6
+      "lon": 137.095
     },
     {
-      "originalIndex": 2681,
-      "code": "2681",
-      "lat": 34.77,
-      "lon": 135.63
+      "name": "名古屋千種区日和町",
+      "region": "愛知県西部",
+      "lat": 35.1683,
+      "lon": 136.965
     },
     {
-      "originalIndex": 2682,
-      "code": "2682",
-      "lat": 34.7,
-      "lon": 135.62
+      "name": "岡崎市若宮町",
+      "region": "愛知県西部",
+      "lat": 34.9533,
+      "lon": 137.18
     },
     {
-      "originalIndex": 2686,
-      "code": "2686",
-      "lat": 34.74,
-      "lon": 135.59
+      "name": "一宮市千秋",
+      "region": "愛知県西部",
+      "lat": 35.3017,
+      "lon": 136.8433
     },
     {
-      "originalIndex": 2687,
-      "code": "2687",
-      "lat": 34.78,
-      "lon": 135.56
+      "name": "豊田市小坂本町",
+      "region": "愛知県西部",
+      "lat": 35.0867,
+      "lon": 137.15
     },
     {
-      "originalIndex": 2688,
-      "code": "2688",
-      "lat": 34.68,
-      "lon": 135.6
+      "name": "豊田市大洞町",
+      "region": "愛知県西部",
+      "lat": 35.2683,
+      "lon": 137.2533
     },
     {
-      "originalIndex": 2689,
-      "code": "2689",
-      "lat": 34.74,
-      "lon": 135.64
+      "name": "西尾市一色町",
+      "region": "愛知県西部",
+      "lat": 34.8067,
+      "lon": 137.0283
     },
     {
-      "originalIndex": 2690,
-      "code": "2690",
-      "lat": 34.79,
-      "lon": 135.68
+      "name": "中部国際空港",
+      "region": "愛知県西部",
+      "lat": 34.8633,
+      "lon": 136.815
     },
     {
-      "originalIndex": 2691,
-      "code": "2691",
-      "lat": 34.89,
-      "lon": 135.66
+      "name": "常滑市飛香台",
+      "region": "愛知県西部",
+      "lat": 34.895,
+      "lon": 136.855
     },
     {
-      "originalIndex": 2692,
-      "code": "2692",
-      "lat": 34.92,
-      "lon": 135.49
+      "name": "南知多町豊浜",
+      "region": "愛知県西部",
+      "lat": 34.715,
+      "lon": 136.9283
     },
     {
-      "originalIndex": 2693,
-      "code": "2693",
-      "lat": 34.97,
-      "lon": 135.4
+      "name": "愛西市稲葉町",
+      "region": "愛知県西部",
+      "lat": 35.1533,
+      "lon": 136.7283
     },
     {
-      "originalIndex": 2694,
-      "code": "2694",
-      "lat": 34.97,
-      "lon": 135.41
+      "name": "四日市市日永",
+      "region": "三重県北部",
+      "lat": 34.94,
+      "lon": 136.58
     },
     {
-      "originalIndex": 2701,
-      "code": "2701",
-      "lat": 34.49,
-      "lon": 135.49
+      "name": "鈴鹿市西条",
+      "region": "三重県北部",
+      "lat": 34.8783,
+      "lon": 136.5683
     },
     {
-      "originalIndex": 2704,
-      "code": "2704",
-      "lat": 34.46,
+      "name": "津市島崎町",
+      "region": "三重県中部",
+      "lat": 34.735,
+      "lon": 136.52
+    },
+    {
+      "name": "津市片田薬王寺町",
+      "region": "三重県中部",
+      "lat": 34.7133,
+      "lon": 136.4167
+    },
+    {
+      "name": "松阪市上川町",
+      "region": "三重県中部",
+      "lat": 34.5483,
+      "lon": 136.5517
+    },
+    {
+      "name": "伊賀市緑ケ丘本町",
+      "region": "三重県中部",
+      "lat": 34.7617,
+      "lon": 136.1417
+    },
+    {
+      "name": "尾鷲市南陽町",
+      "region": "三重県南部",
+      "lat": 34.07,
+      "lon": 136.1933
+    },
+    {
+      "name": "三重御浜町寺谷総合公園",
+      "region": "三重県南部",
+      "lat": 33.8183,
+      "lon": 136.025
+    },
+    {
+      "name": "三重紀北町十須",
+      "region": "三重県南部",
+      "lat": 34.2383,
+      "lon": 136.2733
+    },
+    {
+      "name": "伊勢市矢持町",
+      "region": "三重県南部",
+      "lat": 34.395,
+      "lon": 136.7033
+    },
+    {
+      "name": "志摩市志摩町越賀",
+      "region": "三重県南部",
+      "lat": 34.2633,
+      "lon": 136.7917
+    },
+    {
+      "name": "彦根市城町",
+      "region": "滋賀県北部",
+      "lat": 35.2767,
+      "lon": 136.2433
+    },
+    {
+      "name": "大津市御陵町",
+      "region": "滋賀県南部",
+      "lat": 35.0167,
+      "lon": 135.855
+    },
+    {
+      "name": "大津市南小松",
+      "region": "滋賀県南部",
+      "lat": 35.2367,
+      "lon": 135.955
+    },
+    {
+      "name": "近江八幡市桜宮町",
+      "region": "滋賀県南部",
+      "lat": 35.1267,
+      "lon": 136.0983
+    },
+    {
+      "name": "甲賀市水口町",
+      "region": "滋賀県南部",
+      "lat": 34.965,
+      "lon": 136.1667
+    },
+    {
+      "name": "東近江市君ヶ畑町",
+      "region": "滋賀県南部",
+      "lat": 35.1383,
+      "lon": 136.3883
+    },
+    {
+      "name": "福知山市内記",
+      "region": "京都府北部",
+      "lat": 35.2967,
+      "lon": 135.1267
+    },
+    {
+      "name": "舞鶴市下福井",
+      "region": "京都府北部",
+      "lat": 35.45,
+      "lon": 135.3183
+    },
+    {
+      "name": "京丹後市弥栄町吉沢",
+      "region": "京都府北部",
+      "lat": 35.6317,
+      "lon": 135.1017
+    },
+    {
+      "name": "京都中京区西ノ京",
+      "region": "京都府南部",
+      "lat": 35.015,
+      "lon": 135.7333
+    },
+    {
+      "name": "宇治市宇治琵琶",
+      "region": "京都府南部",
+      "lat": 34.8833,
+      "lon": 135.8
+    },
+    {
+      "name": "亀岡市安町",
+      "region": "京都府南部",
+      "lat": 35.0133,
+      "lon": 135.5733
+    },
+    {
+      "name": "京丹波町坂原",
+      "region": "京都府南部",
+      "lat": 35.285,
+      "lon": 135.3983
+    },
+    {
+      "name": "大阪中央区大手前",
+      "region": "大阪府北部",
+      "lat": 34.6817,
+      "lon": 135.5183
+    },
+    {
+      "name": "大阪国際空港",
+      "region": "大阪府北部",
+      "lat": 34.7883,
+      "lon": 135.445
+    },
+    {
+      "name": "高槻市桃園町",
+      "region": "大阪府北部",
+      "lat": 34.845,
+      "lon": 135.6167
+    },
+    {
+      "name": "箕面市箕面",
+      "region": "大阪府北部",
+      "lat": 34.8317,
+      "lon": 135.4717
+    },
+    {
+      "name": "岸和田市岸城町",
+      "region": "大阪府南部",
+      "lat": 34.4583,
       "lon": 135.37
     },
     {
-      "originalIndex": 2705,
-      "code": "2705",
-      "lat": 34.44,
-      "lon": 135.39
-    },
-    {
-      "originalIndex": 2706,
-      "code": "2706",
-      "lat": 34.46,
-      "lon": 135.375
-    },
-    {
-      "originalIndex": 2707,
-      "code": "2707",
-      "lat": 34.5,
-      "lon": 135.41
-    },
-    {
-      "originalIndex": 2708,
-      "code": "2708",
-      "lat": 34.44,
-      "lon": 135.36
-    },
-    {
-      "originalIndex": 2709,
-      "code": "2709",
-      "lat": 34.41,
-      "lon": 135.3
-    },
-    {
-      "originalIndex": 2710,
-      "code": "2710",
-      "lat": 34.41,
-      "lon": 135.33
-    },
-    {
-      "originalIndex": 2711,
-      "code": "2711",
-      "lat": 34.5,
+      "name": "富田林市本町",
+      "region": "大阪府南部",
+      "lat": 34.5033,
       "lon": 135.6
     },
     {
-      "originalIndex": 2712,
-      "code": "2712",
-      "lat": 34.5,
-      "lon": 135.57
+      "name": "関西国際空港",
+      "region": "大阪府南部",
+      "lat": 34.4333,
+      "lon": 135.2383
     },
     {
-      "originalIndex": 2713,
-      "code": "2713",
-      "lat": 34.44,
-      "lon": 135.58
+      "name": "大阪堺市中区深井清水町",
+      "region": "大阪府南部",
+      "lat": 34.5333,
+      "lon": 135.4917
     },
     {
-      "originalIndex": 2714,
-      "code": "2714",
-      "lat": 34.46,
-      "lon": 135.56
+      "name": "豊岡市桜町",
+      "region": "兵庫県北部",
+      "lat": 35.5367,
+      "lon": 134.8233
     },
     {
-      "originalIndex": 2716,
-      "code": "2716",
-      "lat": 34.48,
-      "lon": 135.42
+      "name": "兵庫香美町香住区三川",
+      "region": "兵庫県北部",
+      "lat": 35.5917,
+      "lon": 134.6617
     },
     {
-      "originalIndex": 2718,
-      "code": "2718",
-      "lat": 34.52,
-      "lon": 135.44
+      "name": "朝来市和田山町枚田",
+      "region": "兵庫県北部",
+      "lat": 35.3233,
+      "lon": 134.85
     },
     {
-      "originalIndex": 2722,
-      "code": "2722",
-      "lat": 34.5,
-      "lon": 135.56
+      "name": "神戸中央区脇浜",
+      "region": "兵庫県南東部",
+      "lat": 34.6967,
+      "lon": 135.2133
     },
     {
-      "originalIndex": 2724,
-      "code": "2724",
-      "lat": 34.49,
-      "lon": 135.4
+      "name": "明石市中崎",
+      "region": "兵庫県南東部",
+      "lat": 34.6433,
+      "lon": 134.9967
     },
     {
-      "originalIndex": 2725,
-      "code": "2725",
-      "lat": 34.4,
-      "lon": 135.35
+      "name": "西宮市宮前町",
+      "region": "兵庫県南東部",
+      "lat": 34.7317,
+      "lon": 135.335
     },
     {
-      "originalIndex": 2726,
-      "code": "2726",
-      "lat": 34.43,
-      "lon": 135.24
+      "name": "加古川市加古川町",
+      "region": "兵庫県南東部",
+      "lat": 34.7567,
+      "lon": 134.8417
     },
     {
-      "originalIndex": 2727,
-      "code": "2727",
-      "lat": 34.39,
-      "lon": 135.29
+      "name": "三木市細川町",
+      "region": "兵庫県南東部",
+      "lat": 34.81,
+      "lon": 135.0517
     },
     {
-      "originalIndex": 2730,
-      "code": "2730",
-      "lat": 34.49,
-      "lon": 135.63
+      "name": "三田市下深田",
+      "region": "兵庫県南東部",
+      "lat": 34.895,
+      "lon": 135.2117
     },
     {
-      "originalIndex": 2731,
-      "code": "2731",
-      "lat": 34.46,
-      "lon": 135.62
+      "name": "加西市下万願寺町",
+      "region": "兵庫県南東部",
+      "lat": 34.9867,
+      "lon": 134.8417
     },
     {
-      "originalIndex": 2754,
-      "code": "2754",
-      "lat": 34.72,
-      "lon": 135.27
-    },
-    {
-      "originalIndex": 2755,
-      "code": "2755",
-      "lat": 34.72,
-      "lon": 135.23
-    },
-    {
-      "originalIndex": 2756,
-      "code": "2756",
-      "lat": 34.69,
-      "lon": 135.16
-    },
-    {
-      "originalIndex": 2757,
-      "code": "2757",
-      "lat": 34.68,
-      "lon": 135.17
-    },
-    {
-      "originalIndex": 2758,
-      "code": "2758",
-      "lat": 34.66,
-      "lon": 135.15
-    },
-    {
-      "originalIndex": 2759,
-      "code": "2759",
-      "lat": 34.69,
-      "lon": 135.11
-    },
-    {
-      "originalIndex": 2760,
-      "code": "2760",
-      "lat": 34.63,
-      "lon": 135.07
-    },
-    {
-      "originalIndex": 2761,
-      "code": "2761",
-      "lat": 34.72,
-      "lon": 135.13
-    },
-    {
-      "originalIndex": 2763,
-      "code": "2763",
-      "lat": 34.7,
-      "lon": 135.21
-    },
-    {
-      "originalIndex": 2765,
-      "code": "2765",
-      "lat": 34.72,
-      "lon": 135.42
-    },
-    {
-      "originalIndex": 2772,
-      "code": "2772",
-      "lat": 34.78,
-      "lon": 135.4
-    },
-    {
-      "originalIndex": 2801,
-      "code": "2801",
-      "lat": 34.91,
-      "lon": 135.38
-    },
-    {
-      "originalIndex": 2875,
-      "code": "2875",
-      "lat": 34.66,
-      "lon": 135.68
-    },
-    {
-      "originalIndex": 2897,
-      "code": "2897",
-      "lat": 34.17,
-      "lon": 135.63
-    },
-    {
-      "originalIndex": 2898,
-      "code": "2898",
-      "lat": 33.99,
-      "lon": 135.79
-    },
-    {
-      "originalIndex": 2899,
-      "code": "2899",
-      "lat": 34,
-      "lon": 135.95
-    },
-    {
-      "originalIndex": 2909,
-      "code": "2909",
-      "lat": 34.08,
-      "lon": 135.13
-    },
-    {
-      "originalIndex": 2912,
-      "code": "2912",
-      "lat": 33.91,
-      "lon": 135.16
-    },
-    {
-      "originalIndex": 2922,
-      "code": "2922",
-      "lat": 34.14,
-      "lon": 135.52
-    },
-    {
-      "originalIndex": 2924,
-      "code": "2924",
-      "lat": 34.22,
-      "lon": 135.59
-    },
-    {
-      "originalIndex": 2925,
-      "code": "2925",
-      "lat": 34.22,
-      "lon": 135.595
-    },
-    {
-      "originalIndex": 2926,
-      "code": "2926",
-      "lat": 34.03,
-      "lon": 135.19
-    },
-    {
-      "originalIndex": 2927,
-      "code": "2927",
-      "lat": 34.03,
-      "lon": 135.17
-    },
-    {
-      "originalIndex": 2929,
-      "code": "2929",
-      "lat": 34.06,
+      "name": "丹波篠山市北新町",
+      "region": "兵庫県南東部",
+      "lat": 35.075,
       "lon": 135.22
     },
     {
-      "originalIndex": 2930,
-      "code": "2930",
-      "lat": 34.07,
-      "lon": 135.25
+      "name": "加東市社",
+      "region": "兵庫県南東部",
+      "lat": 34.9183,
+      "lon": 134.9733
     },
     {
-      "originalIndex": 2932,
-      "code": "2932",
-      "lat": 33.93,
-      "lon": 135.14
+      "name": "姫路市神子岡前",
+      "region": "兵庫県南西部",
+      "lat": 34.84,
+      "lon": 134.6717
     },
     {
-      "originalIndex": 2933,
-      "code": "2933",
-      "lat": 33.96,
-      "lon": 135.12
+      "name": "相生市旭",
+      "region": "兵庫県南西部",
+      "lat": 34.8033,
+      "lon": 134.4683
     },
     {
-      "originalIndex": 2935,
-      "code": "2935",
-      "lat": 33.85,
-      "lon": 135.35
+      "name": "宍粟市山崎町中広瀬",
+      "region": "兵庫県南西部",
+      "lat": 35.005,
+      "lon": 134.55
     },
     {
-      "originalIndex": 2936,
-      "code": "2936",
-      "lat": 33.77,
-      "lon": 135.32
+      "name": "洲本市物部",
+      "region": "兵庫県淡路島",
+      "lat": 34.34,
+      "lon": 134.8783
     },
     {
-      "originalIndex": 2937,
-      "code": "2937",
-      "lat": 33.91,
-      "lon": 135.19
+      "name": "南あわじ市福良",
+      "region": "兵庫県淡路島",
+      "lat": 34.2583,
+      "lon": 134.7133
     },
     {
-      "originalIndex": 2938,
-      "code": "2938",
-      "lat": 33.96,
-      "lon": 135.29
+      "name": "淡路市長澤",
+      "region": "兵庫県淡路島",
+      "lat": 34.485,
+      "lon": 134.9017
     },
     {
-      "originalIndex": 2941,
-      "code": "2941",
-      "lat": 33.79,
-      "lon": 135.52
+      "name": "淡路市富島",
+      "region": "兵庫県淡路島",
+      "lat": 34.5467,
+      "lon": 134.9267
     },
     {
-      "originalIndex": 2943,
-      "code": "2943",
-      "lat": 33.73,
-      "lon": 135.49
+      "name": "奈良市西紀寺町",
+      "region": "奈良県",
+      "lat": 34.675,
+      "lon": 135.8317
     },
     {
-      "originalIndex": 2944,
-      "code": "2944",
-      "lat": 33.89,
-      "lon": 135.49
+      "name": "桜井市初瀬",
+      "region": "奈良県",
+      "lat": 34.5267,
+      "lon": 135.9
     },
     {
-      "originalIndex": 2945,
-      "code": "2945",
-      "lat": 33.73,
-      "lon": 135.39
+      "name": "平群町鳴川",
+      "region": "奈良県",
+      "lat": 34.655,
+      "lon": 135.6833
     },
     {
-      "originalIndex": 2946,
-      "code": "2946",
-      "lat": 33.73,
-      "lon": 135.99
+      "name": "大淀町桧垣本",
+      "region": "奈良県",
+      "lat": 34.3917,
+      "lon": 135.79
     },
     {
-      "originalIndex": 2947,
-      "code": "2947",
-      "lat": 33.72,
-      "lon": 135.98
+      "name": "天川村洞川",
+      "region": "奈良県",
+      "lat": 34.27,
+      "lon": 135.8833
     },
     {
-      "originalIndex": 2948,
-      "code": "2948",
-      "lat": 33.81,
-      "lon": 135.87
+      "name": "和歌山市男野芝丁",
+      "region": "和歌山県北部",
+      "lat": 34.23,
+      "lon": 135.165
     },
     {
-      "originalIndex": 2949,
-      "code": "2949",
-      "lat": 33.67,
-      "lon": 135.36
+      "name": "有田市箕島",
+      "region": "和歌山県北部",
+      "lat": 34.0833,
+      "lon": 135.1283
     },
     {
-      "originalIndex": 2951,
-      "code": "2951",
-      "lat": 33.7,
-      "lon": 135.43
+      "name": "御坊市薗",
+      "region": "和歌山県北部",
+      "lat": 33.8917,
+      "lon": 135.1567
     },
     {
-      "originalIndex": 2957,
-      "code": "2957",
-      "lat": 33.93,
-      "lon": 135.97
+      "name": "高野町高野山中学校",
+      "region": "和歌山県北部",
+      "lat": 34.2217,
+      "lon": 135.59
     },
     {
-      "originalIndex": 3476,
-      "code": "3476",
-      "lat": 33.25,
-      "lon": 134.18
+      "name": "みなべ町土井",
+      "region": "和歌山県北部",
+      "lat": 33.8533,
+      "lon": 135.3517
     },
     {
-      "originalIndex": 3477,
-      "code": "3477",
-      "lat": 33.29,
+      "name": "紀の川市粉河",
+      "region": "和歌山県北部",
+      "lat": 34.2733,
+      "lon": 135.4033
+    },
+    {
+      "name": "田辺市中辺路町近露",
+      "region": "和歌山県南部",
+      "lat": 33.8183,
+      "lon": 135.6117
+    },
+    {
+      "name": "新宮市新宮",
+      "region": "和歌山県南部",
+      "lat": 33.7267,
+      "lon": 135.9917
+    },
+    {
+      "name": "白浜町消防本部",
+      "region": "和歌山県南部",
+      "lat": 33.6683,
+      "lon": 135.355
+    },
+    {
+      "name": "串本町潮岬",
+      "region": "和歌山県南部",
+      "lat": 33.45,
+      "lon": 135.7567
+    },
+    {
+      "name": "古座川町高池",
+      "region": "和歌山県南部",
+      "lat": 33.5333,
+      "lon": 135.8167
+    },
+    {
+      "name": "鳥取市吉方",
+      "region": "鳥取県東部",
+      "lat": 35.4883,
+      "lon": 134.2383
+    },
+    {
+      "name": "岩美町浦富",
+      "region": "鳥取県東部",
+      "lat": 35.575,
+      "lon": 134.3317
+    },
+    {
+      "name": "智頭町智頭",
+      "region": "鳥取県東部",
+      "lat": 35.265,
+      "lon": 134.2267
+    },
+    {
+      "name": "倉吉市岩倉長峯",
+      "region": "鳥取県中部",
+      "lat": 35.3817,
+      "lon": 133.8167
+    },
+    {
+      "name": "米子市博労町",
+      "region": "鳥取県西部",
+      "lat": 35.435,
+      "lon": 133.3383
+    },
+    {
+      "name": "境港市東本町",
+      "region": "鳥取県西部",
+      "lat": 35.545,
+      "lon": 133.235
+    },
+    {
+      "name": "松江市西生馬町",
+      "region": "島根県東部",
+      "lat": 35.4983,
+      "lon": 133.0267
+    },
+    {
+      "name": "松江市西津田",
+      "region": "島根県東部",
+      "lat": 35.4583,
+      "lon": 133.065
+    },
+    {
+      "name": "出雲市今市町",
+      "region": "島根県東部",
+      "lat": 35.3667,
+      "lon": 132.7533
+    },
+    {
+      "name": "出雲市坂浦町",
+      "region": "島根県東部",
+      "lat": 35.5,
+      "lon": 132.8483
+    },
+    {
+      "name": "雲南市大東町大東",
+      "region": "島根県東部",
+      "lat": 35.3217,
+      "lon": 132.9717
+    },
+    {
+      "name": "浜田市大辻町",
+      "region": "島根県西部",
+      "lat": 34.8967,
+      "lon": 132.0717
+    },
+    {
+      "name": "益田市匹見町石谷",
+      "region": "島根県西部",
+      "lat": 34.535,
+      "lon": 131.9267
+    },
+    {
+      "name": "島根美郷町君谷",
+      "region": "島根県西部",
+      "lat": 35.0633,
+      "lon": 132.5067
+    },
+    {
+      "name": "隠岐の島町西町",
+      "region": "島根県隠岐",
+      "lat": 36.205,
+      "lon": 133.3333
+    },
+    {
+      "name": "隠岐の島町山田",
+      "region": "島根県隠岐",
+      "lat": 36.29,
+      "lon": 133.2483
+    },
+    {
+      "name": "津山市林田",
+      "region": "岡山県北部",
+      "lat": 35.065,
+      "lon": 134.01
+    },
+    {
+      "name": "新見市新見",
+      "region": "岡山県北部",
+      "lat": 34.9767,
+      "lon": 133.47
+    },
+    {
+      "name": "美作市尾谷",
+      "region": "岡山県北部",
+      "lat": 34.9433,
+      "lon": 134.165
+    },
+    {
+      "name": "倉敷市新田",
+      "region": "岡山県南部",
+      "lat": 34.585,
+      "lon": 133.775
+    },
+    {
+      "name": "備前市伊部",
+      "region": "岡山県南部",
+      "lat": 34.74,
+      "lon": 134.145
+    },
+    {
+      "name": "赤磐市上市",
+      "region": "岡山県南部",
+      "lat": 34.755,
+      "lon": 134.0183
+    },
+    {
+      "name": "浅口市天草公園",
+      "region": "岡山県南部",
+      "lat": 34.53,
+      "lon": 133.5833
+    },
+    {
+      "name": "岡山北区桑田町",
+      "region": "岡山県南部",
+      "lat": 34.66,
+      "lon": 133.9167
+    },
+    {
+      "name": "岡山北区足守",
+      "region": "岡山県南部",
+      "lat": 34.73,
+      "lon": 133.8017
+    },
+    {
+      "name": "広島三次市十日市中",
+      "region": "広島県北部",
+      "lat": 34.8083,
+      "lon": 132.8567
+    },
+    {
+      "name": "庄原市西城町熊野",
+      "region": "広島県北部",
+      "lat": 35.0017,
+      "lon": 133.1133
+    },
+    {
+      "name": "北広島町都志見",
+      "region": "広島県北部",
+      "lat": 34.665,
+      "lon": 132.4183
+    },
+    {
+      "name": "北広島町有田",
+      "region": "広島県北部",
+      "lat": 34.675,
+      "lon": 132.5383
+    },
+    {
+      "name": "三原市円一町",
+      "region": "広島県南東部",
+      "lat": 34.395,
+      "lon": 133.0783
+    },
+    {
+      "name": "広島空港",
+      "region": "広島県南東部",
+      "lat": 34.44,
+      "lon": 132.9217
+    },
+    {
+      "name": "福山市松永町",
+      "region": "広島県南東部",
+      "lat": 34.4467,
+      "lon": 133.2483
+    },
+    {
+      "name": "広島中区上八丁堀",
+      "region": "広島県南西部",
+      "lat": 34.4,
+      "lon": 132.4633
+    },
+    {
+      "name": "呉市宝町",
+      "region": "広島県南西部",
+      "lat": 34.2417,
+      "lon": 132.55
+    },
+    {
+      "name": "呉市音戸中学校",
+      "region": "広島県南西部",
+      "lat": 34.1817,
+      "lon": 132.53
+    },
+    {
+      "name": "東広島市黒瀬町",
+      "region": "広島県南西部",
+      "lat": 34.325,
+      "lon": 132.6767
+    },
+    {
+      "name": "萩市土原",
+      "region": "山口県北部",
+      "lat": 34.41,
+      "lon": 131.4067
+    },
+    {
+      "name": "萩市見島宇津",
+      "region": "山口県北部",
+      "lat": 34.7833,
+      "lon": 131.1417
+    },
+    {
+      "name": "下関市竹崎",
+      "region": "山口県西部",
+      "lat": 33.9483,
+      "lon": 130.9267
+    },
+    {
+      "name": "下関市豊浦町川棚",
+      "region": "山口県西部",
+      "lat": 34.1467,
+      "lon": 130.925
+    },
+    {
+      "name": "宇部市野中",
+      "region": "山口県西部",
+      "lat": 33.945,
+      "lon": 131.285
+    },
+    {
+      "name": "岩国市今津",
+      "region": "山口県東部",
+      "lat": 34.1667,
+      "lon": 132.22
+    },
+    {
+      "name": "田布施町下田布施",
+      "region": "山口県東部",
+      "lat": 33.955,
+      "lon": 132.04
+    },
+    {
+      "name": "山口市前町",
+      "region": "山口県中部",
+      "lat": 34.1633,
+      "lon": 131.4617
+    },
+    {
+      "name": "防府市寿",
+      "region": "山口県中部",
+      "lat": 34.0517,
+      "lon": 131.5617
+    },
+    {
+      "name": "下松市瀬戸",
+      "region": "山口県中部",
+      "lat": 34.0567,
+      "lon": 131.8717
+    },
+    {
+      "name": "徳島市大和町",
+      "region": "徳島県北部",
+      "lat": 34.0683,
+      "lon": 134.5733
+    },
+    {
+      "name": "鳴門市撫養町",
+      "region": "徳島県北部",
+      "lat": 34.175,
+      "lon": 134.6067
+    },
+    {
+      "name": "吉野川市鴨島町",
+      "region": "徳島県北部",
+      "lat": 34.0667,
+      "lon": 134.3583
+    },
+    {
+      "name": "美馬市穴吹ふれスポ公園",
+      "region": "徳島県北部",
+      "lat": 34.0433,
+      "lon": 134.1517
+    },
+    {
+      "name": "美馬市脇町",
+      "region": "徳島県北部",
+      "lat": 34.0667,
       "lon": 134.15
     },
     {
-      "originalIndex": 3807,
-      "code": "3807",
-      "lat": 33.22,
-      "lon": 129.6
+      "name": "徳島三好市池田町サラダ",
+      "region": "徳島県北部",
+      "lat": 34.0267,
+      "lon": 133.805
     },
     {
-      "originalIndex": 3808,
-      "code": "3808",
-      "lat": 33.26,
-      "lon": 129.75
+      "name": "阿南市富岡町",
+      "region": "徳島県南部",
+      "lat": 33.92,
+      "lon": 134.65
     },
     {
-      "originalIndex": 3809,
-      "code": "3809",
-      "lat": 33.31,
-      "lon": 129.63
+      "name": "那賀町横石",
+      "region": "徳島県南部",
+      "lat": 33.795,
+      "lon": 134.4483
     },
     {
-      "originalIndex": 3810,
-      "code": "3810",
-      "lat": 33.27,
-      "lon": 129.69
+      "name": "高松空港",
+      "region": "香川県東部",
+      "lat": 34.2183,
+      "lon": 134.0167
     },
     {
-      "originalIndex": 3811,
-      "code": "3811",
-      "lat": 33.28,
-      "lon": 129.59
+      "name": "高松市伏石町",
+      "region": "香川県東部",
+      "lat": 34.3183,
+      "lon": 134.055
     },
     {
-      "originalIndex": 3814,
-      "code": "3814",
-      "lat": 33.2,
-      "lon": 129.41
+      "name": "東かがわ市西村",
+      "region": "香川県東部",
+      "lat": 34.25,
+      "lon": 134.3233
     },
     {
-      "originalIndex": 3816,
-      "code": "3816",
+      "name": "土庄町淵崎",
+      "region": "香川県東部",
+      "lat": 34.4867,
+      "lon": 134.1883
+    },
+    {
+      "name": "坂出市王越町",
+      "region": "香川県西部",
+      "lat": 34.3767,
+      "lon": 133.9283
+    },
+    {
+      "name": "観音寺市坂本町",
+      "region": "香川県西部",
+      "lat": 34.13,
+      "lon": 133.6617
+    },
+    {
+      "name": "多度津町家中",
+      "region": "香川県西部",
+      "lat": 34.2767,
+      "lon": 133.7533
+    },
+    {
+      "name": "今治市南宝来町二丁目",
+      "region": "愛媛県東予",
+      "lat": 34.0617,
+      "lon": 133.0017
+    },
+    {
+      "name": "新居浜市一宮町",
+      "region": "愛媛県東予",
+      "lat": 33.96,
+      "lon": 133.2817
+    },
+    {
+      "name": "西条市丹原町鞍瀬",
+      "region": "愛媛県東予",
+      "lat": 33.7817,
+      "lon": 133.0467
+    },
+    {
+      "name": "松山市北持田町",
+      "region": "愛媛県中予",
+      "lat": 33.8433,
+      "lon": 132.7767
+    },
+    {
+      "name": "宇和島市住吉町",
+      "region": "愛媛県南予",
+      "lat": 33.2283,
+      "lon": 132.5533
+    },
+    {
+      "name": "八幡浜市広瀬",
+      "region": "愛媛県南予",
+      "lat": 33.4533,
+      "lon": 132.4283
+    },
+    {
+      "name": "大洲市豊茂",
+      "region": "愛媛県南予",
+      "lat": 33.56,
+      "lon": 132.4767
+    },
+    {
+      "name": "西予市野村町",
+      "region": "愛媛県南予",
+      "lat": 33.3817,
+      "lon": 132.6517
+    },
+    {
+      "name": "愛媛鬼北町成川",
+      "region": "愛媛県南予",
+      "lat": 33.2167,
+      "lon": 132.6217
+    },
+    {
+      "name": "室戸市吉良川町",
+      "region": "高知県東部",
+      "lat": 33.39,
+      "lon": 134.14
+    },
+    {
+      "name": "室戸市室戸岬町",
+      "region": "高知県東部",
+      "lat": 33.2517,
+      "lon": 134.1767
+    },
+    {
+      "name": "安芸市西浜",
+      "region": "高知県東部",
+      "lat": 33.5067,
+      "lon": 133.9033
+    },
+    {
+      "name": "高知市本町",
+      "region": "高知県中部",
+      "lat": 33.5567,
+      "lon": 133.5333
+    },
+    {
+      "name": "高知市春野町芳原",
+      "region": "高知県中部",
+      "lat": 33.51,
+      "lon": 133.4983
+    },
+    {
+      "name": "須崎市山手町",
+      "region": "高知県中部",
+      "lat": 33.4,
+      "lon": 133.2833
+    },
+    {
+      "name": "香美市土佐山田町宝町",
+      "region": "高知県中部",
+      "lat": 33.6033,
+      "lon": 133.685
+    },
+    {
+      "name": "香美市物部町神池",
+      "region": "高知県中部",
+      "lat": 33.7317,
+      "lon": 133.8767
+    },
+    {
+      "name": "宿毛市小筑紫町田ノ浦",
+      "region": "高知県西部",
+      "lat": 32.9067,
+      "lon": 132.7183
+    },
+    {
+      "name": "土佐清水市有永",
+      "region": "高知県西部",
+      "lat": 32.8633,
+      "lon": 132.8
+    },
+    {
+      "name": "土佐清水市足摺岬",
+      "region": "高知県西部",
+      "lat": 32.7233,
+      "lon": 133.01
+    },
+    {
+      "name": "四万十町窪川中津川",
+      "region": "高知県西部",
+      "lat": 33.3133,
+      "lon": 133.0617
+    },
+    {
+      "name": "黒潮町入野",
+      "region": "高知県西部",
+      "lat": 33.025,
+      "lon": 133.0033
+    },
+    {
+      "name": "福岡空港",
+      "region": "福岡県福岡",
+      "lat": 33.5817,
+      "lon": 130.445
+    },
+    {
+      "name": "福岡中央区大濠",
+      "region": "福岡県福岡",
+      "lat": 33.5817,
+      "lon": 130.3767
+    },
+    {
+      "name": "福岡早良区板屋",
+      "region": "福岡県福岡",
+      "lat": 33.43,
+      "lon": 130.385
+    },
+    {
+      "name": "福津市手光",
+      "region": "福岡県福岡",
+      "lat": 33.7733,
+      "lon": 130.4917
+    },
+    {
+      "name": "糸島市志摩初",
+      "region": "福岡県福岡",
+      "lat": 33.5833,
+      "lon": 130.185
+    },
+    {
+      "name": "北九州八幡東区桃園",
+      "region": "福岡県北九州",
+      "lat": 33.8617,
+      "lon": 130.785
+    },
+    {
+      "name": "苅田町若久",
+      "region": "福岡県北九州",
+      "lat": 33.7983,
+      "lon": 130.9767
+    },
+    {
+      "name": "飯塚市川島",
+      "region": "福岡県筑豊",
+      "lat": 33.6533,
+      "lon": 130.6933
+    },
+    {
+      "name": "福智町上野",
+      "region": "福岡県筑豊",
+      "lat": 33.715,
+      "lon": 130.7933
+    },
+    {
+      "name": "大牟田市笹林",
+      "region": "福岡県筑後",
+      "lat": 33.03,
+      "lon": 130.4483
+    },
+    {
+      "name": "久留米市津福本町",
+      "region": "福岡県筑後",
+      "lat": 33.3033,
+      "lon": 130.4933
+    },
+    {
+      "name": "八女市黒木町北木屋",
+      "region": "福岡県筑後",
+      "lat": 33.215,
+      "lon": 130.6933
+    },
+    {
+      "name": "筑前町下高場",
+      "region": "福岡県筑後",
+      "lat": 33.4417,
+      "lon": 130.6067
+    },
+    {
+      "name": "唐津市西城内",
+      "region": "佐賀県北部",
+      "lat": 33.45,
+      "lon": 129.9667
+    },
+    {
+      "name": "佐賀市駅前中央",
+      "region": "佐賀県南部",
+      "lat": 33.2667,
+      "lon": 130.305
+    },
+    {
+      "name": "太良町多良",
+      "region": "佐賀県南部",
+      "lat": 33.02,
+      "lon": 130.18
+    },
+    {
+      "name": "嬉野市不動山",
+      "region": "佐賀県南部",
+      "lat": 33.0967,
+      "lon": 129.9467
+    },
+    {
+      "name": "佐世保市干尽町",
+      "region": "長崎県北部",
+      "lat": 33.16,
+      "lon": 129.7267
+    },
+    {
+      "name": "平戸市岩の上町",
+      "region": "長崎県北部",
       "lat": 33.36,
-      "lon": 129.59
+      "lon": 129.5517
     },
     {
-      "originalIndex": 3818,
-      "code": "3818",
-      "lat": 33.34,
-      "lon": 129.71
+      "name": "長崎市南山手",
+      "region": "長崎県南西部",
+      "lat": 32.7333,
+      "lon": 129.8683
     },
     {
-      "originalIndex": 4088,
-      "code": "4088",
-      "lat": 32.43,
-      "lon": 131.63
+      "name": "長崎市黒浜町",
+      "region": "長崎県南西部",
+      "lat": 32.6333,
+      "lon": 129.7983
     },
     {
-      "originalIndex": 4089,
-      "code": "4089",
-      "lat": 32.44,
-      "lon": 131.64
+      "name": "長崎市長浦町",
+      "region": "長崎県南西部",
+      "lat": 32.91,
+      "lon": 129.7833
     },
     {
-      "originalIndex": 4102,
-      "code": "4102",
-      "lat": 32.23,
-      "lon": 131.15
+      "name": "諫早市東小路町",
+      "region": "長崎県南西部",
+      "lat": 32.8433,
+      "lon": 130.0533
     },
     {
-      "originalIndex": 4113,
-      "code": "4113",
-      "lat": 31.94,
-      "lon": 131.41
+      "name": "雲仙市国見町",
+      "region": "長崎県島原半島",
+      "lat": 32.8633,
+      "lon": 130.3017
     },
     {
-      "originalIndex": 4114,
-      "code": "4114",
-      "lat": 31.91,
-      "lon": 131.42
+      "name": "雲仙市小浜町雲仙",
+      "region": "長崎県島原半島",
+      "lat": 32.7383,
+      "lon": 130.2633
     },
     {
-      "originalIndex": 4115,
-      "code": "4115",
-      "lat": 31.85,
-      "lon": 131.31
+      "name": "長崎対馬市厳原町東里",
+      "region": "長崎県対馬",
+      "lat": 34.1983,
+      "lon": 129.2917
     },
     {
-      "originalIndex": 4118,
-      "code": "4118",
-      "lat": 31.86,
-      "lon": 131.39
+      "name": "長崎対馬市上県町飼所",
+      "region": "長崎県対馬",
+      "lat": 34.5283,
+      "lon": 129.3967
     },
     {
-      "originalIndex": 4120,
-      "code": "4120",
-      "lat": 31.58,
-      "lon": 131.41
+      "name": "長崎対馬市美津島町鴨居瀬",
+      "region": "長崎県対馬",
+      "lat": 34.3383,
+      "lon": 129.385
     },
     {
-      "originalIndex": 4121,
-      "code": "4121",
-      "lat": 31.66,
-      "lon": 131.38
+      "name": "壱岐市芦辺町中野",
+      "region": "長崎県壱岐",
+      "lat": 33.7983,
+      "lon": 129.73
     },
     {
-      "originalIndex": 4122,
-      "code": "4122",
-      "lat": 31.61,
-      "lon": 131.37
+      "name": "五島市富江町繁敷",
+      "region": "長崎県五島",
+      "lat": 32.6583,
+      "lon": 128.7467
     },
     {
-      "originalIndex": 4123,
-      "code": "4123",
-      "lat": 31.53,
-      "lon": 131.37
+      "name": "五島市木場町",
+      "region": "長崎県五島",
+      "lat": 32.695,
+      "lon": 128.8267
     },
     {
-      "originalIndex": 4124,
-      "code": "4124",
-      "lat": 31.6,
-      "lon": 131.38
+      "name": "南阿蘇村中松",
+      "region": "熊本県阿蘇",
+      "lat": 32.88,
+      "lon": 131.0733
     },
     {
-      "originalIndex": 4125,
-      "code": "4125",
-      "lat": 31.68,
-      "lon": 131.38
+      "name": "八代市平山新町",
+      "region": "熊本県熊本",
+      "lat": 32.475,
+      "lon": 130.6083
     },
     {
-      "originalIndex": 4126,
-      "code": "4126",
+      "name": "八代市泉町",
+      "region": "熊本県熊本",
+      "lat": 32.5483,
+      "lon": 130.8133
+    },
+    {
+      "name": "玉名市築地",
+      "region": "熊本県熊本",
+      "lat": 32.9683,
+      "lon": 130.53
+    },
+    {
+      "name": "宇城市松橋町",
+      "region": "熊本県熊本",
+      "lat": 32.6483,
+      "lon": 130.685
+    },
+    {
+      "name": "熊本西区春日",
+      "region": "熊本県熊本",
+      "lat": 32.7867,
+      "lon": 130.6883
+    },
+    {
+      "name": "人吉市西間下町",
+      "region": "熊本県球磨",
+      "lat": 32.2067,
+      "lon": 130.76
+    },
+    {
+      "name": "多良木町多良木",
+      "region": "熊本県球磨",
+      "lat": 32.2633,
+      "lon": 130.935
+    },
+    {
+      "name": "芦北町芦北",
+      "region": "熊本県天草・芦北",
+      "lat": 32.2983,
+      "lon": 130.4933
+    },
+    {
+      "name": "上天草市大矢野町",
+      "region": "熊本県天草・芦北",
+      "lat": 32.5867,
+      "lon": 130.43
+    },
+    {
+      "name": "天草市本町",
+      "region": "熊本県天草・芦北",
+      "lat": 32.4683,
+      "lon": 130.135
+    },
+    {
+      "name": "天草市牛深町",
+      "region": "熊本県天草・芦北",
+      "lat": 32.1983,
+      "lon": 130.0267
+    },
+    {
+      "name": "中津市上宮永",
+      "region": "大分県北部",
+      "lat": 33.5867,
+      "lon": 131.185
+    },
+    {
+      "name": "国東市国見町西方寺",
+      "region": "大分県北部",
+      "lat": 33.635,
+      "lon": 131.5667
+    },
+    {
+      "name": "国東市鶴川",
+      "region": "大分県北部",
+      "lat": 33.5633,
+      "lon": 131.7317
+    },
+    {
+      "name": "大分市明野北",
+      "region": "大分県中部",
+      "lat": 33.23,
+      "lon": 131.655
+    },
+    {
+      "name": "別府市鶴見",
+      "region": "大分県中部",
+      "lat": 33.3117,
+      "lon": 131.4667
+    },
+    {
+      "name": "別府市天間",
+      "region": "大分県中部",
+      "lat": 33.3367,
+      "lon": 131.4067
+    },
+    {
+      "name": "臼杵市乙見",
+      "region": "大分県中部",
+      "lat": 33.0683,
+      "lon": 131.7483
+    },
+    {
+      "name": "佐伯市蒲江蒲江浦",
+      "region": "大分県南部",
+      "lat": 32.8017,
+      "lon": 131.9217
+    },
+    {
+      "name": "佐伯市堅田",
+      "region": "大分県南部",
+      "lat": 32.9283,
+      "lon": 131.87
+    },
+    {
+      "name": "佐伯市蒲江猪串浦",
+      "region": "大分県南部",
+      "lat": 32.7983,
+      "lon": 131.9017
+    },
+    {
+      "name": "豊後大野市三重町",
+      "region": "大分県南部",
+      "lat": 32.9783,
+      "lon": 131.585
+    },
+    {
+      "name": "日田市中津江村合瀬",
+      "region": "大分県西部",
+      "lat": 33.125,
+      "lon": 130.8767
+    },
+    {
+      "name": "日田市三本松",
+      "region": "大分県西部",
+      "lat": 33.3217,
+      "lon": 130.93
+    },
+    {
+      "name": "玖珠町帆足",
+      "region": "大分県西部",
+      "lat": 33.2833,
+      "lon": 131.1517
+    },
+    {
+      "name": "延岡市天神小路",
+      "region": "宮崎県北部平野部",
+      "lat": 32.5817,
+      "lon": 131.6583
+    },
+    {
+      "name": "延岡市北方総合運動公園",
+      "region": "宮崎県北部平野部",
+      "lat": 32.5567,
+      "lon": 131.5283
+    },
+    {
+      "name": "日向市亀崎",
+      "region": "宮崎県北部平野部",
+      "lat": 32.4317,
+      "lon": 131.6283
+    },
+    {
+      "name": "日向市大王谷運動公園",
+      "region": "宮崎県北部平野部",
+      "lat": 32.4433,
+      "lon": 131.6367
+    },
+    {
+      "name": "新富町上富田",
+      "region": "宮崎県北部平野部",
+      "lat": 32.0683,
+      "lon": 131.4867
+    },
+    {
+      "name": "宮崎都農町川北",
+      "region": "宮崎県北部平野部",
+      "lat": 32.2483,
+      "lon": 131.5017
+    },
+    {
+      "name": "高千穂町三田井",
+      "region": "宮崎県北部山沿い",
+      "lat": 32.7117,
+      "lon": 131.3083
+    },
+    {
+      "name": "宮崎市霧島",
+      "region": "宮崎県南部平野部",
+      "lat": 31.9383,
+      "lon": 131.415
+    },
+    {
+      "name": "日南市油津",
+      "region": "宮崎県南部平野部",
+      "lat": 31.5783,
+      "lon": 131.4083
+    },
+    {
+      "name": "日南市北郷町大藤",
+      "region": "宮崎県南部平野部",
+      "lat": 31.6617,
+      "lon": 131.3767
+    },
+    {
+      "name": "串間市奈留",
+      "region": "宮崎県南部平野部",
       "lat": 31.53,
       "lon": 131.27
     },
     {
-      "originalIndex": 4127,
-      "code": "4127",
-      "lat": 31.4,
-      "lon": 131.31
+      "name": "都城市菖蒲原",
+      "region": "宮崎県南部山沿い",
+      "lat": 31.73,
+      "lon": 131.0817
     },
     {
-      "originalIndex": 4128,
-      "code": "4128",
-      "lat": 31.46,
-      "lon": 131.23
+      "name": "都城市高崎町江平",
+      "region": "宮崎県南部山沿い",
+      "lat": 31.905,
+      "lon": 131.085
     },
     {
-      "originalIndex": 4133,
-      "code": "4133",
-      "lat": 31.9,
-      "lon": 131.09
+      "name": "小林市真方",
+      "region": "宮崎県南部山沿い",
+      "lat": 31.9933,
+      "lon": 130.9883
     },
     {
-      "originalIndex": 4135,
-      "code": "4135",
-      "lat": 31.87,
-      "lon": 131.07
+      "name": "鹿児島市東郡元",
+      "region": "鹿児島県薩摩",
+      "lat": 31.555,
+      "lon": 130.5483
     },
     {
-      "originalIndex": 4136,
-      "code": "4136",
-      "lat": 31.8,
-      "lon": 131.13
+      "name": "鹿児島市下福元",
+      "region": "鹿児島県薩摩",
+      "lat": 31.51,
+      "lon": 130.4533
     },
     {
-      "originalIndex": 4137,
-      "code": "4137",
-      "lat": 31.78,
-      "lon": 131.15
+      "name": "枕崎市高見町",
+      "region": "鹿児島県薩摩",
+      "lat": 31.2717,
+      "lon": 130.2933
     },
     {
-      "originalIndex": 4138,
-      "code": "4138",
-      "lat": 31.81,
-      "lon": 131.04
-    },
-    {
-      "originalIndex": 4139,
-      "code": "4139",
-      "lat": 31.99,
-      "lon": 130.99
-    },
-    {
-      "originalIndex": 4140,
-      "code": "4140",
-      "lat": 32,
-      "lon": 130.97
-    },
-    {
-      "originalIndex": 4141,
-      "code": "4141",
-      "lat": 32.08,
-      "lon": 131.07
-    },
-    {
-      "originalIndex": 4142,
-      "code": "4142",
-      "lat": 31.96,
-      "lon": 131.1
-    },
-    {
-      "originalIndex": 4143,
-      "code": "4143",
-      "lat": 32.05,
-      "lon": 130.81
-    },
-    {
-      "originalIndex": 4145,
-      "code": "4145",
-      "lat": 31.93,
-      "lon": 131.01
-    },
-    {
-      "originalIndex": 4154,
-      "code": "4154",
-      "lat": 31.6,
-      "lon": 130.43
-    },
-    {
-      "originalIndex": 4157,
-      "code": "4157",
-      "lat": 32.03,
+      "name": "阿久根市赤瀬川",
+      "region": "鹿児島県薩摩",
+      "lat": 32.0283,
       "lon": 130.2
     },
     {
-      "originalIndex": 4160,
-      "code": "4160",
-      "lat": 32.15,
-      "lon": 130.26
+      "name": "指宿市山川新生町",
+      "region": "鹿児島県薩摩",
+      "lat": 31.2033,
+      "lon": 130.64
     },
     {
-      "originalIndex": 4162,
-      "code": "4162",
-      "lat": 32.06,
-      "lon": 130.27
-    },
-    {
-      "originalIndex": 4165,
-      "code": "4165",
-      "lat": 31.2,
-      "lon": 130.54
-    },
-    {
-      "originalIndex": 4172,
-      "code": "4172",
-      "lat": 31.59,
-      "lon": 130.35
-    },
-    {
-      "originalIndex": 4173,
-      "code": "4173",
-      "lat": 31.66,
-      "lon": 130.35
-    },
-    {
-      "originalIndex": 4174,
-      "code": "4174",
-      "lat": 31.63,
-      "lon": 130.4
-    },
-    {
-      "originalIndex": 4177,
-      "code": "4177",
-      "lat": 31.8,
-      "lon": 130.72
-    },
-    {
-      "originalIndex": 4178,
-      "code": "4178",
-      "lat": 31.91,
-      "lon": 130.7
-    },
-    {
-      "originalIndex": 4180,
-      "code": "4180",
+      "name": "薩摩川内市中郷",
+      "region": "鹿児島県薩摩",
       "lat": 31.83,
-      "lon": 130.68
+      "lon": 130.31
     },
     {
-      "originalIndex": 4184,
-      "code": "4184",
-      "lat": 31.71,
-      "lon": 130.27
+      "name": "さつま町宮之城屋地",
+      "region": "鹿児島県薩摩",
+      "lat": 31.9067,
+      "lon": 130.455
     },
     {
-      "originalIndex": 4185,
-      "code": "4185",
-      "lat": 31.69,
-      "lon": 130.29
+      "name": "霧島市隼人町内山田",
+      "region": "鹿児島県薩摩",
+      "lat": 31.7433,
+      "lon": 130.7367
     },
     {
-      "originalIndex": 4186,
-      "code": "4186",
-      "lat": 31.42,
-      "lon": 130.32
+      "name": "鹿児島空港",
+      "region": "鹿児島県薩摩",
+      "lat": 31.7983,
+      "lon": 130.7183
     },
     {
-      "originalIndex": 4187,
-      "code": "4187",
-      "lat": 31.38,
-      "lon": 130.23
+      "name": "伊佐市大口山野",
+      "region": "鹿児島県薩摩",
+      "lat": 32.1433,
+      "lon": 130.5967
     },
     {
-      "originalIndex": 4188,
-      "code": "4188",
-      "lat": 31.41,
-      "lon": 130.19
-    },
-    {
-      "originalIndex": 4189,
-      "code": "4189",
-      "lat": 31.46,
-      "lon": 130.34
-    },
-    {
-      "originalIndex": 4190,
-      "code": "4190",
-      "lat": 31.31,
-      "lon": 130.23
-    },
-    {
-      "originalIndex": 4191,
-      "code": "4191",
-      "lat": 31.24,
-      "lon": 130.49
-    },
-    {
-      "originalIndex": 4192,
-      "code": "4192",
-      "lat": 31.39,
-      "lon": 130.39
-    },
-    {
-      "originalIndex": 4195,
-      "code": "4195",
-      "lat": 32.06,
-      "lon": 130.59
-    },
-    {
-      "originalIndex": 4197,
-      "code": "4197",
-      "lat": 31.76,
-      "lon": 130.57
-    },
-    {
-      "originalIndex": 4203,
-      "code": "4203",
-      "lat": 31.92,
-      "lon": 130.54
-    },
-    {
-      "originalIndex": 4204,
-      "code": "4204",
-      "lat": 32.19,
-      "lon": 130.18
-    },
-    {
-      "originalIndex": 4205,
-      "code": "4205",
-      "lat": 32.28,
-      "lon": 130.22
-    },
-    {
-      "originalIndex": 4206,
-      "code": "4206",
-      "lat": 32.16,
-      "lon": 130.12
-    },
-    {
-      "originalIndex": 4207,
-      "code": "4207",
-      "lat": 32.22,
-      "lon": 130.21
-    },
-    {
-      "originalIndex": 4210,
-      "code": "4210",
-      "lat": 31.38,
+      "name": "鹿屋市新栄町",
+      "region": "鹿児島県大隅",
+      "lat": 31.3767,
       "lon": 130.85
     },
     {
-      "originalIndex": 4212,
-      "code": "4212",
-      "lat": 31.55,
-      "lon": 130.86
+      "name": "錦江町田代麓",
+      "region": "鹿児島県大隅",
+      "lat": 31.17,
+      "lon": 130.92
     },
     {
-      "originalIndex": 4213,
-      "code": "4213",
-      "lat": 31.33,
+      "name": "志布志市志布志町志布志",
+      "region": "鹿児島県大隅",
+      "lat": 31.4767,
+      "lon": 131.1
+    },
+    {
+      "name": "鹿児島十島村中之島徳之尾",
+      "region": "鹿児島県十島村",
+      "lat": 29.845,
+      "lon": 129.8733
+    },
+    {
+      "name": "薩摩川内市下甑町青瀬",
+      "region": "鹿児島県甑島",
+      "lat": 31.6817,
+      "lon": 129.7133
+    },
+    {
+      "name": "西之表市住吉",
+      "region": "鹿児島県種子島",
+      "lat": 30.6583,
+      "lon": 130.9767
+    },
+    {
+      "name": "西之表市西之表",
+      "region": "鹿児島県種子島",
+      "lat": 30.72,
+      "lon": 130.9833
+    },
+    {
+      "name": "南種子町中之下",
+      "region": "鹿児島県種子島",
+      "lat": 30.3967,
       "lon": 130.9
     },
     {
-      "originalIndex": 4215,
-      "code": "4215",
-      "lat": 31.5,
-      "lon": 130.7
+      "name": "屋久島町小瀬田",
+      "region": "鹿児島県屋久島",
+      "lat": 30.3833,
+      "lon": 130.66
     },
     {
-      "originalIndex": 4216,
-      "code": "4216",
-      "lat": 31.6,
-      "lon": 130.99
+      "name": "屋久島町口永良部島池田",
+      "region": "鹿児島県屋久島",
+      "lat": 30.465,
+      "lon": 130.1933
     },
     {
-      "originalIndex": 4220,
-      "code": "4220",
-      "lat": 31.58,
-      "lon": 131.04
+      "name": "屋久島町平内",
+      "region": "鹿児島県屋久島",
+      "lat": 30.2383,
+      "lon": 130.51
     },
     {
-      "originalIndex": 4221,
-      "code": "4221",
-      "lat": 31.5,
-      "lon": 131.05
+      "name": "瀬戸内町西古見",
+      "region": "鹿児島県奄美北部",
+      "lat": 28.2433,
+      "lon": 129.175
     },
     {
-      "originalIndex": 4226,
-      "code": "4226",
-      "lat": 31.24,
-      "lon": 130.79
+      "name": "龍郷町屋入",
+      "region": "鹿児島県奄美北部",
+      "lat": 28.415,
+      "lon": 129.6033
     },
     {
-      "originalIndex": 4228,
-      "code": "4228",
-      "lat": 31.22,
-      "lon": 130.77
+      "name": "喜界町滝川",
+      "region": "鹿児島県奄美北部",
+      "lat": 28.3183,
+      "lon": 129.97
     },
     {
-      "originalIndex": 4230,
-      "code": "4230",
-      "lat": 31.34,
-      "lon": 130.95
+      "name": "奄美市名瀬矢之脇町",
+      "region": "鹿児島県奄美北部",
+      "lat": 28.385,
+      "lon": 129.4933
     },
     {
-      "originalIndex": 4232,
-      "code": "4232",
-      "lat": 29.69,
-      "lon": 129.53
+      "name": "天城町当部",
+      "region": "鹿児島県奄美南部",
+      "lat": 27.79,
+      "lon": 128.9483
     },
     {
-      "originalIndex": 4234,
-      "code": "4234",
-      "lat": 29.99,
-      "lon": 129.92
+      "name": "和泊町国頭",
+      "region": "鹿児島県奄美南部",
+      "lat": 27.4333,
+      "lon": 128.705
     },
     {
-      "originalIndex": 4236,
-      "code": "4236",
-      "lat": 29.61,
-      "lon": 129.7
-    },
-    {
-      "originalIndex": 4239,
-      "code": "4239",
-      "lat": 31.68,
-      "lon": 129.71
-    },
-    {
-      "originalIndex": 4240,
-      "code": "4240",
-      "lat": 31.64,
-      "lon": 129.71
-    },
-    {
-      "originalIndex": 4241,
-      "code": "4241",
-      "lat": 31.84,
-      "lon": 129.87
-    },
-    {
-      "originalIndex": 4242,
-      "code": "4242",
-      "lat": 31.84,
-      "lon": 129.92
-    },
-    {
-      "originalIndex": 4243,
-      "code": "4243",
-      "lat": 31.78,
-      "lon": 129.79
-    },
-    {
-      "originalIndex": 4247,
-      "code": "4247",
-      "lat": 30.78,
-      "lon": 130.28
-    },
-    {
-      "originalIndex": 4248,
-      "code": "4248",
-      "lat": 30.81,
-      "lon": 130.42
-    },
-    {
-      "originalIndex": 4249,
-      "code": "4249",
-      "lat": 30.83,
-      "lon": 129.91
-    },
-    {
-      "originalIndex": 4251,
-      "code": "4251",
-      "lat": 30.4,
-      "lon": 130.9
-    },
-    {
-      "originalIndex": 4252,
-      "code": "4252",
-      "lat": 30.35,
-      "lon": 130.88
-    },
-    {
-      "originalIndex": 4253,
-      "code": "4253",
-      "lat": 30.41,
-      "lon": 130.9
-    },
-    {
-      "originalIndex": 4257,
-      "code": "4257",
-      "lat": 30.24,
-      "lon": 130.56
-    },
-    {
-      "originalIndex": 4268,
-      "code": "4268",
-      "lat": 28.03,
-      "lon": 129.23
-    },
-    {
-      "originalIndex": 4269,
-      "code": "4269",
-      "lat": 28.04,
-      "lon": 129.16
-    },
-    {
-      "originalIndex": 4281,
-      "code": "4281",
-      "lat": 27.36,
+      "name": "知名町瀬利覚",
+      "region": "鹿児島県奄美南部",
+      "lat": 27.3617,
       "lon": 128.57
     },
     {
-      "originalIndex": 4282,
-      "code": "4282",
-      "lat": 27.33,
-      "lon": 128.57
+      "name": "与論町麦屋",
+      "region": "鹿児島県奄美南部",
+      "lat": 27.025,
+      "lon": 128.45
     },
     {
-      "originalIndex": 4299,
-      "code": "4299",
-      "lat": 26.58,
-      "lon": 127.23
+      "name": "名護市宮里",
+      "region": "沖縄県本島北部",
+      "lat": 26.595,
+      "lon": 127.9667
+    },
+    {
+      "name": "名護市豊原",
+      "region": "沖縄県本島北部",
+      "lat": 26.5183,
+      "lon": 128.0217
+    },
+    {
+      "name": "国頭村奥",
+      "region": "沖縄県本島北部",
+      "lat": 26.8367,
+      "lon": 128.2717
+    },
+    {
+      "name": "粟国村浜",
+      "region": "沖縄県本島北部",
+      "lat": 26.5933,
+      "lon": 127.2383
+    },
+    {
+      "name": "伊平屋村我喜屋",
+      "region": "沖縄県本島北部",
+      "lat": 27.0383,
+      "lon": 127.965
+    },
+    {
+      "name": "那覇市樋川",
+      "region": "沖縄県本島中南部",
+      "lat": 26.2083,
+      "lon": 127.6867
+    },
+    {
+      "name": "那覇空港",
+      "region": "沖縄県本島中南部",
+      "lat": 26.205,
+      "lon": 127.65
+    },
+    {
+      "name": "読谷村座喜味",
+      "region": "沖縄県本島中南部",
+      "lat": 26.3967,
+      "lon": 127.745
+    },
+    {
+      "name": "南城市玉城字玉城",
+      "region": "沖縄県本島中南部",
+      "lat": 26.1433,
+      "lon": 127.7833
+    },
+    {
+      "name": "久米島町山城",
+      "region": "沖縄県久米島",
+      "lat": 26.33,
+      "lon": 126.7833
+    },
+    {
+      "name": "久米島町謝名堂",
+      "region": "沖縄県久米島",
+      "lat": 26.3383,
+      "lon": 126.805
+    },
+    {
+      "name": "南大東村在所",
+      "region": "沖縄県大東島",
+      "lat": 25.83,
+      "lon": 131.2283
+    },
+    {
+      "name": "南大東村池之沢",
+      "region": "沖縄県大東島",
+      "lat": 25.82,
+      "lon": 131.2233
+    },
+    {
+      "name": "北大東村黄金山",
+      "region": "沖縄県大東島",
+      "lat": 25.9483,
+      "lon": 131.2967
+    },
+    {
+      "name": "多良間村塩川",
+      "region": "沖縄県宮古島",
+      "lat": 24.6417,
+      "lon": 124.705
+    },
+    {
+      "name": "宮古島市平良下里",
+      "region": "沖縄県宮古島",
+      "lat": 24.795,
+      "lon": 125.2783
+    },
+    {
+      "name": "宮古島市城辺福北",
+      "region": "沖縄県宮古島",
+      "lat": 24.7633,
+      "lon": 125.4033
+    },
+    {
+      "name": "宮古島市平良池間",
+      "region": "沖縄県宮古島",
+      "lat": 24.9233,
+      "lon": 125.2483
+    },
+    {
+      "name": "宮古島市上野新里",
+      "region": "沖縄県宮古島",
+      "lat": 24.7417,
+      "lon": 125.3283
+    },
+    {
+      "name": "宮古島市伊良部前里添",
+      "region": "沖縄県宮古島",
+      "lat": 24.8333,
+      "lon": 125.1933
+    },
+    {
+      "name": "石垣市登野城",
+      "region": "沖縄県石垣島",
+      "lat": 24.3367,
+      "lon": 124.165
+    },
+    {
+      "name": "石垣市新川",
+      "region": "沖縄県石垣島",
+      "lat": 24.3683,
+      "lon": 124.1433
+    },
+    {
+      "name": "石垣市平久保",
+      "region": "沖縄県石垣島",
+      "lat": 24.5867,
+      "lon": 124.31
+    },
+    {
+      "name": "与那国町祖納",
+      "region": "沖縄県与那国島",
+      "lat": 24.4667,
+      "lon": 123.01
+    },
+    {
+      "name": "与那国町久部良",
+      "region": "沖縄県与那国島",
+      "lat": 24.4517,
+      "lon": 122.945
+    },
+    {
+      "name": "竹富町大原",
+      "region": "沖縄県西表島",
+      "lat": 24.2733,
+      "lon": 123.88
+    },
+    {
+      "name": "竹富町黒島",
+      "region": "沖縄県西表島",
+      "lat": 24.2417,
+      "lon": 124.0083
+    },
+    {
+      "name": "竹富町波照間",
+      "region": "沖縄県西表島",
+      "lat": 24.0617,
+      "lon": 123.7783
+    },
+    {
+      "name": "竹富町上原小学校",
+      "region": "沖縄県西表島",
+      "lat": 24.425,
+      "lon": 123.79
     }
   ]
 }
